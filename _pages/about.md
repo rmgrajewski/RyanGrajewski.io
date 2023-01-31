@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <p align="center">
-<img src="/assets/JLBHeadshot.jpg" class="img-responsive" style="max-height: 400px;">
+<img src="/assets/Headshot.jpg" class="img-responsive" style="max-height: 400px;">
 </p>
 
 <br>
