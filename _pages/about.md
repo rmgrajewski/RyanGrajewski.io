@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <p align="center">
-<img src="/assets/RMGLogo.png" class="img-responsive" style="max-height: 200px;">
+<img src="/assets/RMGLogo.png" class="img-responsive" style="max-height: 400px;">
 </p>
 
 <br>
