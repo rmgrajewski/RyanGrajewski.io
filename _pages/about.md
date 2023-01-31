@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <p align="center">
-<img src="/assets/RMGLogo.png" class="img-responsive" style="max-height: 400px;">
+<img src="/assets/Headshot.png" class="img-responsive" style="max-height: 400px;">
 </p>
 
 <br>
@@ -16,5 +16,6 @@ I have experience from a number of roles in the design, manufacturing, and R&D i
 
 <h3>Contact</h3>
 I can be reached at: 
-rmgrajewski@gmail.com
-</span>
+    - email: rmgrajewski@gmail.com
+    - mobile: 703-939-7089
+
