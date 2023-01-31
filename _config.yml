@@ -13,13 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Julian Leland Bell
+title: Ryan Matthew Grajewski
 description: >- # this means to ignore newlines until "baseurl:"
-  Robotics, Manufacturing, Mechanical Design
+  Mechanical Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://julianlelandbell.github.io # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: JulianLelandBell
-github_username:  JulianLelandBell
+url: https://rmgrajewski.github.io # the base hostname & protocol for your site, e.g. http://example.com
 colorscheme: scheme-jlb-invert # Color schemes defined in rlstevenson.scss
 paginate: 3
 paginate_path: "/blog/page:num/"
