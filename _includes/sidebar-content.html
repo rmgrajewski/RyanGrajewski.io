@@ -1,0 +1,54 @@
+<div class="sidebar-content">
+
+	<div class="sidebar-img">
+		<a href="{% if site.baseurl != '' %}{{ site.baseurl }}/{% else %}/{% endif %}"> <img id="logo" src="/assets/JLBLogo_v1.png"> </a>
+	</div>
+	
+	<h1>{{ site.title }}</h1>
+	<p>{{ site.description }}</p>
+
+	{% if site.freetext != '' %}
+	<div class="sidebar-freetext">
+		<p>{{ site.freetext }}</p>
+	</div>
+	{% endif %}
+
+	<ul class="sidebar-menus">
+		{% for item in site.data.menu %}
+			<li> <a href="{{ item.url }}">{{ item.text }}</a></li>
+		{% endfor %}
+	</ul>
+	
+	<br>
+	
+	<ul class="list-inline list-social-icons mb-0">
+		<li class="list-inline-item">
+			<a href="https://twitter.com/JulianLBell">
+				<span class="fa-stack fa-lg">
+					<i class="fa fa-square fa-stack-2x"></i>
+					<i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+				</span>
+			</a>
+		</li>
+		<li class="list-inline-item">
+			<a href="https://www.linkedin.com/in/julian-leland-bell-072a7922/">
+				<span class="fa-stack fa-lg">
+					<i class="fa fa-square fa-stack-2x"></i>
+				  	<i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+				</span>
+			</a>
+		</li>
+		<li class="list-inline-item">
+		  	<a href="https://github.com/JulianLelandBell">
+				<span class="fa-stack fa-lg">
+			  		<i class="fa fa-square fa-stack-2x"></i>
+			  		<i class="fa fa-github fa-stack-1x fa-inverse"></i>
+				</span>
+		  	</a>
+		</li>
+  	</ul>
+
+	<div class="sidebar-footer">
+		<p class="copyright">&copy; {{ site.time | date: '%Y' }}. All content <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>.</p>
+	</div>
+</div>

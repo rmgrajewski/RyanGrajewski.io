@@ -1,0 +1,21 @@
+{% include header.html %}
+
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-sm-4 col-md-3 sidebar">
+			{% include sidebar-content.html %}
+			</div>
+			
+			<div class="col-sm-7 col-sm-offset-4 col-md-6 col-md-offset-3 col-lg-5 col-lg-offset-3 content">
+				{{ content }}
+			</div>
+			
+		</div>
+		
+		<!-- Grid footer - only shown on mobile -->
+		<div class="col-sm-4 col-md-3 grid-footer">
+			<p class="copyright">&copy; {{ site.time | date: '%Y' }}. All content <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>.</p>
+		</div>
+	</div>
+
+{% include footer.html %}
