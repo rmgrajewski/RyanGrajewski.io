@@ -8,23 +8,13 @@ permalink: /about/
 </p>
 
 <br>
-My name is Julian Leland Bell. I'm a mechanical engineer, working at the intersection of robotics, manufacturing and precision engineering. I completed my B.S. at Swarthmore College (Engineering, 2012) and my M.S. at MIT (Mechanical Engineering, 2017). 
+My name is Ryan Grajewski. I'm a mechanical engineer with a passion for understanding and pushing the physical limits of the things around us. I am fascinated by the ways people interact with technology on a day-to-day basis, and I am driven to establish myself as a leader in that design space at the intersection of advanced robotics, manufacturing, and product development. 
 
-I currently work in the Advanced Technology Group at [UPS]({{"https://www.ups.com"}}), where I develop new robotic technologies for material handling and logistics. Before coming to UPS, I developed new metal additive manufacturing technologies in the Advanced R&D Group at [Desktop Metal]({{"https://www.desktopmetal.com/"}}); worked on automated construction systems with the [Mediated Matter Group]({{"http://matter.media.mit.edu/"}}) at the [MIT Media Lab]({{"https://www.media.mit.edu/"}}); and designed cable-driven robotic manipulators at [Barrett Technology]({{"https://www.barrett.com/"}}).
+I graduated from Georgia Tech with a B.S. in mechanical engineering in 2022, and chose to continue my education fruther into graduate school by pursuing GT's 5-year joint BS/MS pogram. I am currently completing the final semester of my M.S. degree in mechanical engineering where my program of study focuses on robotics, automation, and controls. I am anticipating graduation May 2023. 
 
-My scholarship has focused specifically on problems in manipulator design for construction automation, primarily through my work with the Digital Construction Platform. I've spoken to a wide range of audiences about my work, current developments in construction automation, and how these technologies promise to impact the AEC fields. My past speaking engagements include:
-- [National Science Foundation Workshop on AM for Civil Infrastructure Design and Construction]({{"https://events.tti.tamu.edu/conference/nsf-3dp-workshop/"}})
-- [American Conference of Construction Lawyers 29th Annual Meeting]({{"https://www.accl.org/"}})
-- [University of Illinois at Urbana-Champaign Guest Lecture]({{"https://arch.illinois.edu/node/646"}})
-
-My current resumé can be seen [here](/assets/Resume-JLB_11-2018_Public.pdf).
-
-This site showcases a selection of the projects I've worked on throughout my career. All information and documentation presented here is provided with no warranty/guarantee whatsoever - use at your own risk. The views and opinions expressed here are my own, and do not necessarily reflect those of the organizations with which I work.
+I have experience from a number of roles in the design, manufacturing, and robotics industires, and most recently have worked for UPS's Advanced Technology Group in their Rapid Prototyping Lab. I have other experience in quality engineering in the aerospace industry from my time with Safran Data Systems inc, and am very comfortable with machine shop equipment after working as a shop apprentice for Pro-Type Industries inc. This website is my opportunity to display some of my other skills I've developed through my project work.
 
 <h3>Contact</h3>
 I can be reached at: <span style="unicode-bidi:bidi-override; direction: rtl;">
-moc.liamg@dnalel.nailuj
+rmgrajewski@gmail.com
 </span>
-
-<h3>About this site</h3>
-This site is built using Jekyll and Bootstrap 4, and is based primarily on the [RLStevenson]({{"https://github.com/ExchangeRate-API/rlstevenson-jekyll-theme"}}) theme for Jekyll.
