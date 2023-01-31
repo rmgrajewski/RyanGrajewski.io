@@ -1,19 +1,14 @@
 ---
 layout: project
-title: Ames Lathe
-permalink: /projects/ameslathe
+title: NASA Big Idea Challenge - Lunar Forge
+permalink: /projects/lunarforge
 subtitle:
 rollover-text:
 project-type: engineering
 project-priority: 0
-cover-img: AL_0_sm.png
+cover-img: LUNARFORGE.png
 images:
- - image_path: /projects/ameslathe/AL_0.png
- - image_path: /projects/ameslathe/AL_1.png
- - image_path: /projects/ameslathe/AL_2.png
- - image_path: /projects/ameslathe/AL_3.png
- - image_path: /projects/ameslathe/AL_4.png
- - image_path: /projects/ameslathe/AL_5.png
+ - image_path: /projects/ameslathe/LUNARFORGE.png
 ---
 
 I picked up this lathe from Swarthmore when the Engineering machine shop was renovated. It’s roughly a 6 x 22 1940’s model, and came with a huge assortment of collets, chucks and other tooling; it also has a 1 HP bidirectional motor and a continuously variable speed adjuster. It’s a beautiful piece of old machinery, and is in extremely good condition.
