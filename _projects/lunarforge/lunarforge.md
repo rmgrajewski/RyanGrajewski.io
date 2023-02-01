@@ -6,9 +6,15 @@ subtitle:
 rollover-text:
 project-type: engineering
 project-priority: 0
-cover-img: LUNARFORGE.png
+cover-img: thumbnail.png
 images:
- - image_path: /projects/ameslathe/LUNARFORGE.png
+ - image_path: /projects/lunarforge/thumbnail.png
+ - image_path: /projects/lunarforge/lunarforge_01.png
+ - image_path: /projects/lunarforge/lunarforge_02.png
+ - image_path: /projects/lunarforge/lunarforge_03.png
+ - image_path: /projects/lunarforge/lunarforge_04.png
+ - image_path: /projects/lunarforge/lunarforge_05.png
+ - image_path: /projects/lunarforge/lunarforge_06.png
 ---
 
 I picked up this lathe from Swarthmore when the Engineering machine shop was renovated. It’s roughly a 6 x 22 1940’s model, and came with a huge assortment of collets, chucks and other tooling; it also has a 1 HP bidirectional motor and a continuously variable speed adjuster. It’s a beautiful piece of old machinery, and is in extremely good condition.
