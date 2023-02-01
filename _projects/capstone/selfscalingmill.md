@@ -1,15 +1,27 @@
 ---
 layout: project
-title: Self-Scaling Milling Machine
-permalink: /projects/selfscalingmill
+title: Senior Capstone Design Project
+permalink: /projects/capstone
 subtitle: 
 rollover-text:
 project-type: engineering
 project-priority: 1
-cover-img: SSMS_0_sm.jpg
+cover-img: capstone_07.png
 images:
- - image_path: /projects/selfscalingmill/SSMS_0.jpg
-   caption: "Image credit: Faruq Siddiqui, 2012"
+ - image_path: /projects/capstone/capstone_01.png
+   caption: "Industry starndard dry-wall cart"
+ - image_path: /project/capstone/capstone_02.png
+    caption: "3D Rendering of Final Drywall Cart Prototype"
+ - image_path: /project/capstone/capstone_03.png
+    caption: "3D Rendering of Wheel Drive Train"
+ - image_path: /project/capstone/capstone_04.png
+    caption: "Solidworks structural FEA of Cart Frame"
+ - image_path: /project/capstone/capstone_05.png
+    caption: "Solidworks structural FEA of Kickstand Mounting Bracket"
+ - image_path: /project/capstone/capstone_06.jpg
+    caption: "Capstone Expo Project Poster"
+ - image_path: /project/capstone/capstone_07.jpeg
+    caption: "Team 'The Good Guys' at the Capstone Expo"
 
 ---
 
