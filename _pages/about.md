@@ -16,6 +16,7 @@ I have experience from a number of roles in the design, manufacturing, and R&D i
 
 <h3>Contact</h3>
 I can be reached at: 
+<br>
     - email: rmgrajewski@gmail.com
+    <br>
     - mobile: 703-939-7089
-
