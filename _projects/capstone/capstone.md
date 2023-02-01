@@ -9,20 +9,12 @@ project-priority: 10
 cover-img: capstone_07.png
 images:
  - image_path: /projects/capstone/capstone_01.png
-   caption: "Industry starndard dry-wall cart"
- - image_path: /project/capstone/capstone_02.png
-    caption: "3D Rendering of Final Drywall Cart Prototype"
- - image_path: /project/capstone/capstone_03.png
-    caption: "3D Rendering of Wheel Drive Train"
- - image_path: /project/capstone/capstone_04.png
-    caption: "Solidworks structural FEA of Cart Frame"
- - image_path: /project/capstone/capstone_05.png
-    caption: "Solidworks structural FEA of Kickstand Mounting Bracket"
- - image_path: /project/capstone/capstone_06.jpg
-    caption: "Capstone Expo Project Poster"
- - image_path: /project/capstone/capstone_07.png
-    caption: "Team 'The Good Guys' at the Capstone Expo"
-
+ - image_path: /projects/capstone/capstone_02.png
+ - image_path: /projects/capstone/capstone_03.png
+ - image_path: /projects/capstone/capstone_04.png
+ - image_path: /projects/capstone/capstone_05.png
+ - image_path: /projects/capstone/capstone_06.jpg
+ - image_path: /projects/capstone/capstone_07.png
 ---
 <h2>Project Overview</h2>
 My capstone senior design project was sponsored by Gypsum Management Supply, INC. who presented the challenge of improving the safety and usability of an age-old tool they use every day: the drywall cart. The motivation was that GMS spends nearly $1 million per year in worker's compensation due to worksite injuries where a loaded (1 ton) drywall cart tips over and crushes the operator. The goal of the project was to develop a novel drywall cart that improves the operational safety by addressing maneuverability and minimizing risks of tipping.
