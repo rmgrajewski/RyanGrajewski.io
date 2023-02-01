@@ -24,6 +24,11 @@ images:
     caption: "Team 'The Good Guys' at the Capstone Expo"
 
 ---
+<h2>Project Overview</h2>
+My capstone senior design project was sponsored by Gypsum Management Supply, INC. who presented the challenge of improving the safety and usability of an age-old tool they use every day: the drywall cart. The motivation was that GMS spends nearly $1 million per year in worker's compensation due to worksite injuries where a loaded (1 ton) drywall cart tips over and crushes the operator. The goal of the project was to develop a novel drywall cart that improves the operational safety by addressing maneuverability and minimizing risks of tipping.
+
+<h2>Results</h2>
+
 
 In the spring semester of 2012, I completed my senior design project (known at Swarthmore as my E90), which focused on the design and fabrication of a self-replicating milling machine. Recently, inexpensive digital fabrication tools like the RepRap and ShopBot have made complex fabrication tasks accessible to the hobbyist and maker communities, and have even begun to reach outside of those communities to broader public acceptance. However, there is a significant “manufacturing gap” that this genre of tool does not yet effectively fill – specifically, tools that are capable of high-precision machining of metal and other hard materials. My E90 focused on designing a machine to fill this gap – a bench-scale, inexpensive milling machine which would be cost- and performance-competitive with existing alternatives (Sherline, Taig, Harbor Freight), and capable of “self-replication” in the same way a RepRap is – it could produce all parts involved in its construction which could be easily bought “off-the-shelf” from suppliers like McMaster-Carr, MSC, etc. The ultimate goal of the project was to design a machine which could be replicated by a moderately competent user with access to basic hand tools (including power drills, etc.), and access to an existing machine.
 
