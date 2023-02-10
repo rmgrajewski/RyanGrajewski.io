@@ -5,8 +5,8 @@ permalink: /projects/capstone
 subtitle: 
 rollover-text:
 project-type: engineering
-project-priority: 10
-cover-img: capstone_thumb.png
+project-priority: 4
+cover-img: capstone_07.png
 images:
  - image_path: /projects/capstone/capstone_01.png
  - image_path: /projects/capstone/capstone_02.png
@@ -14,7 +14,7 @@ images:
  - image_path: /projects/capstone/capstone_04.png
  - image_path: /projects/capstone/capstone_05.png
  - image_path: /projects/capstone/capstone_06.jpg
- - image_path: /projects/capstone/capstone_thumb_.png
+ - image_path: /projects/capstone/capstone_07_.png
 
 ---
 ## Project Overview 

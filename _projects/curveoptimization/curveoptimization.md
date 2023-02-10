@@ -5,7 +5,7 @@ permalink: /projects/curveoptimization
 subtitle:
 rollover-text:
 project-type: engineering
-project-priority: 9
+project-priority: 5
 cover-img: LineOpt1.png
 images:
  - image_path: /projects/curveoptimization/LineOpt1.png
@@ -37,7 +37,7 @@ The semester concluded before we could realize our full goal of modeling a muscl
 
 ## Documents
 
-* [Final Reprot](/projects/curveoptimization/FinalReport.pdf): Final write-up detailing the entire semester's efforts
+* [Final Report](/projects/curveoptimization/FinalReport.pdf): Final write-up detailing the entire semester's efforts
 * [Final Presentation Slides](/projects/curveoptimization/FinalPres.pdf): Slides presented to the class demonstrating our algorithm
 
 

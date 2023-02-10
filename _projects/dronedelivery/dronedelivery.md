@@ -5,7 +5,7 @@ permalink: /projects/dronedelivery
 subtitle:
 rollover-text:
 project-type: engineering
-project-priority: 10
+project-priority: 3
 cover-img: drone_01.png
 images:
  - image_path: /projects/dronedelivery/drone_01.png  
@@ -19,7 +19,6 @@ images:
 This project was a Georgia Tech Research Institute sponsored project to develop an on-campus, autonomous drone delivery service for last-mile delivery. The entire project was comprised of several teams, each oriented around a main objective functionality of the delivery network including drone flight testing, software programming, ground support network programming, and delivery station fabrication.
 
 I contributed as the team leader for the Drone Delivery Station team during my time on this project. The task of our team was to develop an automated delivery station similar to that of an Amazon Locker which would be capable of interceping a drone and accepting its payload, sorting and storing payloads in an array of secure lockers, and enabling people to retrieve their items from a designated locker.
-
 
 ## Contributions and Team Results
 
