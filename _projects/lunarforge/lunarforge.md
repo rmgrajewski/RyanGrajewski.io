@@ -17,8 +17,21 @@ images:
  - image_path: /projects/lunarforge/lunarforge_06.png
 ---
 
-I picked up this lathe from Swarthmore when the Engineering machine shop was renovated. It’s roughly a 6 x 22 1940’s model, and came with a huge assortment of collets, chucks and other tooling; it also has a 1 HP bidirectional motor and a continuously variable speed adjuster. It’s a beautiful piece of old machinery, and is in extremely good condition.
+## Project Overview
 
-To date, I’ve replaced all the belts (including the previous leather main drive belt with a serpentine belt – a fun task), installed a quick-change tool post, and done a little bit to clean it up. Going forward, I’d like to build a new, smaller bench for it (with better coolant management than the current system of covering the nice wooden tabletop in gunk), replace the wiring (cloth insulation, yikes), and purchase more attachments for it.
+NASA's Big Idea Challenge for 2023 - the Lunar Forge - was an open-ended challenge to develop innovative technologies or processes that address some part of the metal production pipeline on the Moon. In particular, NASA emphasized technologies that enable the production of pressure vessels, support structures, pipe, metal BLAHBALLBLAHIDSFOPAOISEJFASIODJFIOSextrusions, cable, etc. There was a major emphasis on design process for this project, including methodical idea generation and systematic decision making. 
 
-Finally, I’d like to figure out some way around the machine’s lack of a lead screw. Originally, this machine was designed to use a “chase”-type mechanism for thread cutting (for more information, see the [lathes.co.uk page](http://www.lathes.co.uk/ames/index.html). My lathe did not, unfortunately, come with one of these attachments, and they are essentially impossible to find. One possible alternative to this system that I’ve investigated is to create an “electronic leadscrew” – an electronic linkage between the headstock and the compound slide rest. This can either be done as part of a full CNC implementation, or as a standalone, “dumb” project.
+## Concept Generation
+
+Our team followed a systematic approach to idea generation, down-selection, and concept validation. Ask me about the design and ideation methods we used!‍Our efforts culminated in a proposal comprising two highly innovative but also highly risky system concepts:                 
+1.  A method for rapidly quenching metal for the purpose of metal hardening by using an inert nitrogen gas quenching process 
+2.  A novel method for manufacturing pressure vessels which incorporates an inflatable inner diaphram that acts as a mold around which heated metal feedstock could be wrapped to form the outter shell.
+
+## Results
+
+I implemented Solidworks CFD simulation to model the heat transfer response of a metal workpiece as it is subjected to blasts of high pressure, high velocity nitrogen gas. The conclusion was a range of pressure and velocity values required cool the metal to a T6 metal hardness grade.
+
+Ansys static structure simulations were used to model the elastic behavior of the inflatable diapgrahm component. Numerous materials with non-linear elastic properties were tested for use as the diaphram, and those that could withstand the modeled environment and applied forces were elected as candidates for further development. 
+
+## Documents
+
