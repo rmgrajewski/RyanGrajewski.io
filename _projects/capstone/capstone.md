@@ -6,7 +6,7 @@ subtitle:
 rollover-text:
 project-type: engineering
 project-priority: 10
-cover-img: capstone_07.png
+cover-img: capstone_thumb.png
 images:
  - image_path: /projects/capstone/capstone_01.png
  - image_path: /projects/capstone/capstone_02.png
@@ -16,10 +16,10 @@ images:
  - image_path: /projects/capstone/capstone_06.jpg
  - image_path: /projects/capstone/capstone_07.png
 ---
-<h2>Project Overview</h2>
+## Project Overview 
 My capstone senior design project was sponsored by Gypsum Management Supply, INC. who presented the challenge of improving the safety and usability of an age-old tool they use every day: the drywall cart. The motivation was that GMS spends nearly $1 million per year in worker's compensation due to worksite injuries where a loaded (1 ton) drywall cart tips over and crushes the operator. The goal of the project was to develop a novel drywall cart that improves the operational safety by addressing maneuverability and minimizing risks of tipping.
 
-<h2>Problem Discovery and Ideation</h2>
+## Problem Discovery and Ideation
 
 Our team first visited several ongoing construction sites to understand how drywall carts are typically used. The greatest insightes we gathered were from construction workers themselves -- their concerns lied more with efficiency and ease of use rather than safety itself. The challenge then became how to improve safety while maintaining the current design's functinality.It became clear that a retrofit mechanism that could be installed on existing carts was the correct direction to take the project.
 
@@ -33,6 +33,7 @@ The final design was a 2-bar linkage kickstand with a trigger at its top that wo
 
 ## Document Links
 
+* [Design Expo Poster](/projects/capstone/capstone_06.jpg): Poster displayed at the senior design expo
 * [Final Report](/projects/capstone/FinalReport.pdf): details design process, and includes final CAD models and FEA validation.
 * [Fabrication Package](/projects/capstone/Fabrication_Package.pdf): Fabrication Package submitted to GMS
 * [Report #2](/projects/capstone/Report2.pdf): Second update report detailing mechanism design
