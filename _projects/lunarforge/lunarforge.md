@@ -35,3 +35,8 @@ Ansys static structure simulations were used to model the elastic behavior of th
 
 ## Documents
 
+
+* [Final Deliverables Presentation](https://youtu.be/nl4ozNvyHK0): Culminating presentation of our findings
+* [Final Report](/projects/lunarforge/FinalReport.pdf): Final presentation including in-depth calculations and concept validation
+* [Team Report 2](/projects/lunarforge/Report2.pdf): Second update report including design concept selection and project plans
+* [Team Report 1](/projects/lunarforge/Report1.pdf): First update report including ideation methods and background research
