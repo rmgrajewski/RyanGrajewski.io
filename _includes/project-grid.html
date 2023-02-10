@@ -2,11 +2,15 @@
 	{% assign projects = site.projects | sort: 'project-priority' | reverse %}
 	{% for project in projects %}
 		<!-- Project grid item -->
-		<div class="col-sm-4 col-xs-12 portfolio-item">
+		<div class="col-sm-5 col-xs-12 portfolio-item">
 			<!--<div class="img-container">-->
 				<a href={{project.url}}> 
 					<div class="img-thumbnail-container">
 						<img class="img-thumbnail-inside img-fluid" src="{{project.permalink}}/{{ project.cover-img }}" alt="">
+						
+					</div>
+					<div class="project-title" src="{{project.permalink}}/{{project.title}}" alt="">
+						
 					</div>
 				</a>
 			<!--</div>-->
