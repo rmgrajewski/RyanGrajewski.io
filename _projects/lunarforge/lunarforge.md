@@ -6,9 +6,9 @@ subtitle:
 rollover-text:
 project-type: engineering
 project-priority: 11
-cover-img: lunarforge_thumb.png
+cover-img: thumbnail.png
 images:
- - image_path: /projects/lunarforge/lunarforge_thumb.png
+ - image_path: /projects/lunarforge/thumbnail.png
  - image_path: /projects/lunarforge/lunarforge_01.png
  - image_path: /projects/lunarforge/lunarforge_02.png
  - image_path: /projects/lunarforge/lunarforge_03.png
