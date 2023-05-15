@@ -69,11 +69,13 @@ li {
     width: 28%;
 }
 
+
 @media (max-width: 768px) {
  	.portfolio-item {
  	width: 48%;
  	height: 100%;
  	}
+	
 }
 
 .img-container {
@@ -101,6 +103,13 @@ li {
   	object-fit: cover;
   	-webkit-filter: saturate(75%);
     filter: saturate(75%);
+}
+
+.thumbmain-text {
+	text-align: center;
+	padding-right: 1em;
+	padding-left: 1em;
+	font-size: 10px;
 }
 
 
