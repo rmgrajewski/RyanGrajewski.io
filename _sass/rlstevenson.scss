@@ -42,6 +42,7 @@ p {
 	font-family: Roboto, sans-serif;
 	font-weight: 900;
 	font-size: 1.2em;
+	text-align: center;
 }
 ul {
 	font-family: Roboto, sans-serif;
@@ -70,7 +71,7 @@ li {
 
 /* PROJECT GRID CONTENT */
 .portfolio-item {
-    margin: 3% 1%;
+    margin: 4% 1%;
     padding: 0px;
     width: 28%;
 }
@@ -113,8 +114,6 @@ li {
 
 .thumbmain-text {
 	object-position: 50% 100%;
-	font-size: 12px;
-	font-weight: bold;
 	text-align: center;
 }
 
@@ -221,10 +220,11 @@ li {
 .sidebar {
 	padding: 1.5em;
 	font-size: 1.3em;
-	text-align: left;
+	text-align: center;
 }
 
 .sidebar .sidebar-img {
+	object-position: 50% 100%;
 	outline: solid;
 	outline-color:#000000;
 	outline-width: medium;
