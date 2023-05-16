@@ -95,6 +95,10 @@ li {
 
 .img-container {
 	width: 100%;
+	background-color: #F4F4F6;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: contain;
 }
 
 .img-thumbnail {
@@ -105,9 +109,12 @@ li {
 
 .img-thumbnail-container {
     width: 100%;
-    height: 0px;
+    height: 100%;
     padding-top: 100%;
-	background-color: #000000;
+	background-color: #F4F4F6;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: contain;
 }
 
 .img-thumbnail-inside {
@@ -120,9 +127,6 @@ li {
   	object-fit: cover;
   	-webkit-filter: saturate(75%);
     filter: saturate(75%);
-	background-position: center center;
-	background-repeat: no-repeat;
-	background-size: contain;
 }
 
 .thumbmain-text {
