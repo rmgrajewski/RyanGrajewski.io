@@ -110,7 +110,7 @@ li {
 
 .img-thumbnail-container {
     width: 100%;
-	height: 130%;
+	height: 150%;
 	padding-top: 6.45em;
 	padding-bottom: 25%;
 	background-color: #F4F4F6;
@@ -125,7 +125,7 @@ li {
   	left: 0;
 	margin-bottom: 0;
   	width: 100%;
-  	height: 80%;
+  	height: 90%;
   	object-fit: cover;
   	-webkit-filter: saturate(75%);
     filter: saturate(75%);
@@ -134,6 +134,7 @@ li {
 .thumbmain-text {
 	object-position: center bottom;
 	text-align: center;
+	height: 45px;
 	padding-top: 5.16em;
 	margin-top: 0%;
 	margin-bottom: 2%
