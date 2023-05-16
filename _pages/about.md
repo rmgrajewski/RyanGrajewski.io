@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <h2 align = "center">
-<img src="/assets/Headshot.png" class="img-responsive" style="max-height: 400px;">
+<img src="/assets/Headshot.png" class="img-responsive" style="max-height: 400px; object-position: center center;">
 </h2>
 
 <br>
