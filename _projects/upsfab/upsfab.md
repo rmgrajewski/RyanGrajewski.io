@@ -1,6 +1,6 @@
 ---
 layout: project
-title: UPS Rapid Prototyping Lab - Miscellaneous Fabrication Efforts
+title: UPS Rapid Prototyping
 permalink: /projects/upsfab
 subtitle:
 rollover-text:
