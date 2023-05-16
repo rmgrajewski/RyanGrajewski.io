@@ -226,11 +226,9 @@ li {
 }
 
 .sidebar .sidebar-img {
-	object-position: 50% 100%;
-	outline: solid;
-	outline-color:#000000;
-	outline-width: medium;
+	object-position: bottom;
 }
+
 .sidebar .sidebar-content {
 	width:100%;
 	margin: auto;
@@ -247,12 +245,14 @@ li {
 .sidebar .sidebar-menus li {
 	list-style: none;
 	font-size:1em;
+	text-align: left;
 }
 .sidebar .sidebar-recent {
 	margin-top: 1.5em;
 }
 .sidebar .sidebar-menus li a {
 	text-decoration:underline;
+	text-align: left;
 }
 .sidebar ul > li:before {
   content: ""
@@ -281,7 +281,7 @@ li {
 		padding-left:20px;
 		height: 93%;
 		overflow-y: auto;
-		text-align: left;
+		text-align: center;
 	}
 	.sidebar .sidebar-img img {
 		height: 275px;
