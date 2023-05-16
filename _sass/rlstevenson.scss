@@ -113,9 +113,10 @@ li {
 
 .thumbmain-text {
 	object-position: 50% 100%;
-	text-align: center;
-	font-size: .8em;
+	object-fit: contain;
+	font-size: 120%;
 	font-weight: bold;
+	text-align: center;
 }
 
 
