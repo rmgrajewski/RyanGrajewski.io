@@ -5,9 +5,11 @@
 		<div class="col-sm-5 col-xs-12 portfolio-item">
 			<!--<div class="img-container">-->
 				<a href={{project.url}}> 
-					<div class="img-thumbnail-container">
-						<img class="img-thumbnail-inside img-fluid" src="{{project.permalink}}/{{ project.cover-img }}" alt=" {{ project.title }}">
-						<h2>{{ project.title }}</h2>
+					<div class="w3-card" style="width:48%;max-width:768px">
+						<img src="{{project.permalink}}/{{ project.cover-img }}" alt=" {{ project.title }}" style="width:100%">
+						<div class="w3-container">
+							<h2>{{project.title}}</h2>
+						</div>
 					</div>
 				</a>
 			<!--</div>-->
