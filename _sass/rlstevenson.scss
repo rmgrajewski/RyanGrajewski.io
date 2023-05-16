@@ -106,9 +106,7 @@ li {
 }
 
 .thumbmain-text {
-	position: absolute;
-	top: 100%;
-	left: 50%;
+	object-position: 50% 100%;
 	text-align: center;
 	font-size: 12px;
 }
