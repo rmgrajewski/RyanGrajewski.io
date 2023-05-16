@@ -27,11 +27,17 @@ h1 {
 	font-family: Raleway, sans-serif;
 }
 
-h2, h3, h4 {
+h3, h4 {
 	font-family: Roboto, sans-serif;
 	font-weight: 300;
 	margin-top: 30px;
 }
+
+h2 {
+	font-family: Roboto, sans-serif;
+	font-weight: 300;
+}
+
 p {
 	font-family: Roboto, sans-serif;
 	font-weight: 300;
@@ -107,9 +113,8 @@ li {
 
 .thumbmain-text {
 	object-position: 50% 100%;
-	outline: solid;
 	text-align: center;
-	font-size: 1.2em;
+	font-size: .8em;
 	font-weight: bold;
 }
 
