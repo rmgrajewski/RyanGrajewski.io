@@ -113,8 +113,7 @@ li {
 
 .thumbmain-text {
 	object-position: 50% 100%;
-	object-fit: contain;
-	font-size: 120%;
+	font-size: 12px;
 	font-weight: bold;
 	text-align: center;
 }
@@ -226,7 +225,9 @@ li {
 }
 
 .sidebar .sidebar-img {
-
+	outline: solid;
+	outline-color:#000000;
+	outline-width: medium;
 }
 .sidebar .sidebar-content {
 	width:100%;
