@@ -129,7 +129,9 @@ li {
 }
 
 .thumbmain-text {
-	object-position: center bottom;
+	position: absolute;
+	top: 225;
+	left: 0;
 	text-align: center;
 	height: 45px;
 	padding-top: 5.16em;
