@@ -27,7 +27,7 @@ h1 {
 	font-family: Raleway, sans-serif;
 }
 
-h3, h4 {
+h3 {
 	font-family: Roboto, sans-serif;
 	font-weight: 300;
 	margin-top: 30px;
@@ -36,6 +36,12 @@ h3, h4 {
 h2 {
 	font-family: Roboto, sans-serif;
 	font-weight: 900;
+	font-size: 1.2em;
+	text-align: center;
+}
+h4 { 
+	font-family: Roboto, sans-serif;
+	font-weight: 300;
 	font-size: 1.2em;
 	text-align: center;
 }
@@ -73,7 +79,7 @@ li {
 
 /* PROJECT GRID CONTENT */
 .portfolio-item {
-    margin: 4% 1%;
+    margin: 3% 1%;
     padding: 0px;
     width: 28%;
 }
@@ -226,7 +232,8 @@ li {
 }
 
 .sidebar .sidebar-img {
-	object-position: bottom;
+	object-position: center bottom;
+
 }
 
 .sidebar .sidebar-content {
