@@ -6,9 +6,8 @@ subtitle:
 rollover-text:
 project-type: engineering
 project-priority: 8
-cover-img: W_0_sm.png
+cover-img: MECH1.png
 images:
- - image_path: /projects/website/W_0.png
 
 ---
 
