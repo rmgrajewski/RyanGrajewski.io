@@ -109,8 +109,6 @@ li {
 .img-thumbnail-container {
     width: 100%;
 	height: 150%;
-	//padding-top: 6.45em;
-	//padding-bottom: 25%;
 }
 
 .img-thumbnail-inside {
@@ -126,9 +124,9 @@ li {
 }
 
 .text {
-	color: #4D5656;
+	color: white;
 	font-family: Roboto, sans-serif;
-	font-size: 20px;
+	font-size: 25px;
 	font-weight: bold;
 	position: absolute;
 	top: 50%;
@@ -144,7 +142,7 @@ li {
 	bottom: 0;
 	left: 0;
 	right: 0;
-	background-color: #FFFFFF;
+	background-color: black;
 	overflow: hidden;
 	width: 100%;
 	height: 100%;
@@ -159,7 +157,7 @@ li {
 	-webkit-transform: scale(1);
 	-ms-transform: scale(1);
 	transform: scale(1);
-	opacity: .5;
+	opacity: .7;
 }
 
 
