@@ -19,6 +19,7 @@
 */
 
 
+
 /* DEFAULTS */
 html, body {
 	height: 100%
@@ -128,7 +129,8 @@ li {
     filter: saturate(75%);
 }
 
-.thumbmain-text {
+.thumbnail-text {
+	display: none;
 	position: absolute;
 	top: 225;
 	left: 0;
@@ -136,8 +138,13 @@ li {
 	height: 45px;
 	padding-top: 5.16em;
 	margin-top: 0%;
-	margin-bottom: 2%
+	margin-bottom: 2%;
+	background-color: #F4F4F6;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
+
 
 
 /* PROJECT CONTENT */
