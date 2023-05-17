@@ -21,6 +21,7 @@ url: https://rmgrajewski.github.io # the base hostname & protocol for your site,
 colorscheme: scheme-jlb-invert # Color schemes defined in rlstevenson.scss
 paginate: 3
 paginate_path: "/blog/page:num/"
+google_analytics: G-XV05SLV01Y
 
 
 # Build settings

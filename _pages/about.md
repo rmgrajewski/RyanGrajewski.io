@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <h2>
-<img src="/assets/RMGheadshot2.png" class="img-responsive" style="max-height: 400px; object-position: center center;">
+<img src="/assets/RMGheadshot2.png" class="img-responsive" style="max-height: 400px; object-position: center center">
 </h2>
 
 <br>
