@@ -127,7 +127,9 @@ li {
 
 .text {
 	color: white;
+	font-family: Roboto, sans-serif;
 	font-size: 20px;
+	font-weight: bold;
 	position: absolute;
 	top: 50%;
 	left: 50%;
@@ -135,7 +137,6 @@ li {
 	-ms-transform: translate(-50%, -50%);
 	transform: translate(-50%,-50%);
 	text-align: center;
-	display: none;
 }
 
 .overlay {
@@ -159,7 +160,6 @@ li {
 	-ms-transform: scale(1);
 	transform: scale(1);
 	opacity: .5;
-
 }
 
 
