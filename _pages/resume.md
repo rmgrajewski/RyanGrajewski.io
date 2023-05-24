@@ -13,8 +13,8 @@ permalink: /resume/
 				<div class="yui-u">
 					<div class="contact-info">
 						<h3><a id="pdf" href="/assets/RyanGrajewski_resume.pdf"  download>Download Resume PDF</a></h3>
-                        <h3>(703)-939-7089</h3>
-						<h3><a href="mailto:name@yourdomain.com" style="margin-left: 5%">me@ryangrajewski.com</a></h3>
+                        <h3 style="margin-left: 18px">(703)-939-7089</h3>
+						<h3><a href="mailto:name@yourdomain.com">me@ryangrajewski.com</a></h3>
 					</div><!--// .contact-info -->
 				</div>
 			</div><!--// .yui-gc -->
