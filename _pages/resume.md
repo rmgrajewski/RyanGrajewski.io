@@ -3,25 +3,18 @@ layout: default
 title: Resume
 permalink: /resume/
 ---
-<h1>Resume</h1>
-
-A copy of my current resumé can be downloaded [here](/assets/RyanGrajewski_resume.pdf).
-
-
-
 <div id="doc2" class="yui-t7">
 	<div id="inner">
 		<div id="hd">
 			<div class="yui-gc">
 				<div class="yui-u first">
-					<h1>My Resume</h1>
+					<h1>Resume</h1>
 				</div>
 				<div class="yui-u">
 					<div class="contact-info">
-						<h3><a id="pdf" href="#">[Download Resume PDF](/assets/RyanGrajewski_resume.pdf)</a></h3>
+						<h3><a id="pdf" href="/assets/RyanGrajewski_resume.pdf" download>Download Resume PDF</a></h3>
                         <br>
 						<h3><a href="mailto:name@yourdomain.com">me@ryangrajewski.com</a></h3>
-                        <br>
 						<h3>(703)-939-7089</h3>
 					</div><!--// .contact-info -->
 				</div>
