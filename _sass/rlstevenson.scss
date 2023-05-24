@@ -65,9 +65,9 @@ li {
 
 /* PROJECT GRID CONTENT */
 .portfolio-item {
-    margin: 1%;
+    margin: 2% 1%;
     padding: 0px;
-    width: 28%;
+    width: 31%;
 }
 
 @media (max-width: 768px) {
@@ -307,8 +307,8 @@ li {
 		text-align: center;
 	}
 	.sidebar .sidebar-img img {
-		height: 275px;
-		width: 275px;
+		height: 100%;
+		width: 100%;
 	}
 	.grid-footer {
 		display: none !important;
