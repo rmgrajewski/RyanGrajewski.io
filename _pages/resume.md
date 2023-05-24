@@ -3,10 +3,12 @@ layout: default
 title: Resume
 permalink: /resume/
 ---
-<script src="//mozilla.github.io/pdf.js/build/pdf.js"></script>
-
-<h1>PDF.js 'Hello, world!' example</h1>
-
-<canvas id="the-canvas"></canvas>
-
-
+  <head>
+    <title>PDF Example by Object Tag</title>
+  </head>
+  <body>
+    <h1>PDF Example by Object Tag</h1>
+    <object data="/assets/RyanGrajewski_resume.pdf" type="application/pdf" width="100%" height="500px">
+      <p>Unable to display PDF file. <a href="/assets/RyanGrajewski_resume.pdf">Download</a> instead.</p>
+    </object>
+  </body>
