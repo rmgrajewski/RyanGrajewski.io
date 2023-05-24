@@ -1,10 +1,11 @@
 <div class="sidebar-content">
 
 	<div class="sidebar-img">
-		<a href="{% if site.baseurl != '' %}{{ site.baseurl }}/{% else %}/{% endif %}"> <img src="/assets/Headshot.png" class="img-responsive" style="object-fit: cover;"> </a>
+		<a href="{% if site.baseurl != '' %}{{ site.baseurl }}/{% else %}/{% endif %}"> <img id="logo" src="/assets/Headshot.png"> </a>
 	</div>
+
 	<h1>{{ site.title }}</h1>
-	<h4>{{ site.description }}</h4>
+	<p>{{ site.description }}</p>
 
 	{% if site.freetext != '' %}
 	<div class="sidebar-freetext">
