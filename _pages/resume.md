@@ -1192,7 +1192,7 @@ CtOgD//Z"/>
 
 <div class="grid-container-element">
     <div class="grid-child-element purple">
-      <ul>
+      <ul style="padding-left: 0px;">
         <li>
           <input type="checkbox" checked>
           <i></i>
@@ -1202,7 +1202,7 @@ CtOgD//Z"/>
       </ul>
     </div>
     <div class="grid-child-element green">
-      <ul>
+      <ul style="padding-left: 0px;">
         <li>
           <input type="checkbox" checked>
           <i></i>
@@ -1212,7 +1212,7 @@ CtOgD//Z"/>
       </ul>
     </div>
     <div class="grid-child-element yellow">
-      <ul>
+      <ul style="padding-left: 0px;">
         <li>
           <input type="checkbox" checked>
           <i></i>
