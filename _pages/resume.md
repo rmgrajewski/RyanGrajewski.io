@@ -1190,6 +1190,10 @@ CtOgD//Z"/>
 </g>
 </svg>
 
+<div class="grid-container-element">
+    <div class="grid-child-element purple">Grid Column 1</div>
+    <div class="grid-child-element green">Grid Column 2</div>
+</div>
 
 <ul>
   <li>

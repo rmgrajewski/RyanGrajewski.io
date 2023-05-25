@@ -94,7 +94,6 @@ ul li {
 	margin: 0;
 	padding-bottom: 4px;
 	padding-top: 18px;
-	border-top: 1px dotted #dce7eb;
 }
 ul li:nth-of-type(1) {
 	animation-delay: 0.5s;
@@ -185,6 +184,18 @@ ul li input[type=checkbox]:checked~i:after {
 		transform-origin: top center;
 		transform: rotateX(0deg);
 	}
+}
+
+.grid-container-element { 
+    display: grid; 
+    grid-template-columns: 1fr 1fr 1fr; 
+    grid-gap: 20px; 
+    border: 1px solid black; 
+    width: 50%; 
+} 
+.grid-child-element { 
+    margin: 10px; 
+    border: 1px solid red; 
 }
 
 /* SPECIALIZED MARKDOWN CONTENT */
@@ -315,7 +326,7 @@ ul li input[type=checkbox]:checked~i:after {
 	padding-left: 2em;
 	padding-top: 3em;
 	padding-right: 2em;
-	overflow-y: auto;
+	overflow-y: visible;
 }
 
 @media (max-width: 768px) {
