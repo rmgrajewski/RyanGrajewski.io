@@ -59,7 +59,6 @@ ul {
 }
 
 ul > li:before {
-  content: "–"; /* en dash */
   position: absolute;
   margin-left: -1.1em; 
 }
@@ -191,11 +190,12 @@ ul li input[type=checkbox]:checked~i:after {
     grid-template-columns: 1fr 1fr 1fr; 
     grid-gap: 20px; 
     border: 1px solid black; 
-    width: 50%; 
+    width: 100%; 
 } 
 .grid-child-element { 
-    margin: 10px; 
-    border: 1px solid red; 
+    margin: 5px; 
+    border: 1px solid red;
+	text-align: center; 
 }
 
 /* SPECIALIZED MARKDOWN CONTENT */

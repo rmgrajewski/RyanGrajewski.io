@@ -3,7 +3,7 @@ layout: default
 title: Resume
 permalink: /resume/
 ---
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="720pt" height="135.5294pt" viewBox="0 0 843.20858 135.5294">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="714pt" height="135.5294pt" viewBox="0 0 843.20858 135.5294">
 <g enable-background="new">
 <g transform="matrix(.38502673,0,0,.38502673,0,0)">
 <symbol id="im0" viewBox="0 0 2190 352">
@@ -1191,8 +1191,18 @@ CtOgD//Z"/>
 </svg>
 
 <div class="grid-container-element">
-    <div class="grid-child-element purple">Grid Column 1</div>
-    <div class="grid-child-element green">Grid Column 2</div>
+    <div class="grid-child-element purple">
+      <ul>
+        <li>
+          <input type="checkbox" checked>
+          <i></i>
+          <h4>Education</h4>
+          <p>This page was written in HTML and CSS. The CSS was compiled from SASS. I used Normalize as my CSS reset and -prefix-free to save myself some headaches. I haven't quite gotten the hang of Slim for compiling into HTML, but someday I'll use it since its syntax compliments that of SASS. Regardless, this could all be done in plain HTML and CSS.</p>
+        </li>
+      </ul>
+    </div>
+    <div class="grid-child-element green">Skills & Proficiencies</div>
+    <div class="grid-child-element yellow">Accolades</div>
 </div>
 
 <ul>
