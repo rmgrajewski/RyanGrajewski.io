@@ -3,6 +3,7 @@ layout: default
 title: Resume
 permalink: /resume/
 ---
+<script src="https://code.jquery.com/jquery-3.x-git.min.js"></script>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="714pt" height="135.5294pt" viewBox="0 0 843.20858 135.5294">
 <g enable-background="new">
 <g transform="matrix(.38502673,0,0,.38502673,0,0)">
@@ -1190,37 +1191,105 @@ CtOgD//Z"/>
 </g>
 </svg>
 
+<script src="https://code.jquery.com/jquery-3.x-git.min.js"></script>
+
 <div class="grid-container-element">
-    <div class="grid-child-element purple">
-      <ul style="padding-left: 0px;">
-        <li>
-          <input type="checkbox" checked>
-          <i></i>
-          <h4>Education</h4>
-          <p>This page was written in HTML and CSS. The CSS was compiled from SASS. I used Normalize as my CSS reset and -prefix-free to save myself some headaches. I haven't quite gotten the hang of Slim for compiling into HTML, but someday I'll use it since its syntax compliments that of SASS. Regardless, this could all be done in plain HTML and CSS.</p>
-        </li>
-      </ul>
-    </div>
-    <div class="grid-child-element green">
-      <ul style="padding-left: 0px;">
-        <li>
-          <input type="checkbox" checked>
-          <i></i>
-          <h4>Skills & Proficiencies</h4>
-          <p>This page was written in HTML and CSS. The CSS was compiled from SASS. I used Normalize as my CSS reset and -prefix-free to save myself some headaches. I haven't quite gotten the hang of Slim for compiling into HTML, but someday I'll use it since its syntax compliments that of SASS. Regardless, this could all be done in plain HTML and CSS.</p>
-        </li>
-      </ul>
-    </div>
-    <div class="grid-child-element yellow">
-      <ul style="padding-left: 0px;">
-        <li>
-          <input type="checkbox" checked>
-          <i></i>
-          <h4>Accolades</h4>
-          <p>This page was written in HTML and CSS. The CSS was compiled from SASS. I used Normalize as my CSS reset and -prefix-free to save myself some headaches. I haven't quite gotten the hang of Slim for compiling into HTML, but someday I'll use it since its syntax compliments that of SASS. Regardless, this could all be done in plain HTML and CSS.</p>
-        </li>
-      </ul>
-    </div>
+	<div class="grid-child-element purple">
+		<ul style="padding-left: 0px;">
+			<li>
+				<div class="dropdown ml-5">
+					<div class="dropdown-trigger">
+						<button class="button" aria-haspopup="true" aria-controls="dropdown-menu2">
+							<h4>Education</h4>
+							<span class="icon is-large">
+								<input type="checkbox" checked>
+								<i></i>
+							</span>
+						</button>
+					</div>
+					<div class="dropdown-menu" id="dropdown-menu2" role="menu">
+						<div class="dropdown-content">
+							<div class="dropdown-item">
+								<p>You can insert <strong>any type of content</strong> within the dropdown menu.</p>
+							</div>
+							<hr class="dropdown-divider">
+							<div class="dropdown-item">
+								<p><img src="https://placeimg.com/320/300/animals/grayscale" style="width:100%;" /></p>
+							</div>
+							<hr class="dropdown-divider">
+							<a href="#" class="dropdown-item">
+								This is a link
+							</a>
+						</div>
+					</div>
+				</div>
+			</li>
+		</ul>
+	</div>
+	<div class="grid-child-element green">
+		<ul style="padding-left: 0px;">
+			<li>
+				<div class="dropdown ml-5">
+					<div class="dropdown-trigger">
+						<button class="button" aria-haspopup="true" aria-controls="dropdown-menu2">
+							<h4>Skills & Proficiencies</h4>
+							<span class="icon is-large">
+								<input type="checkbox" checked>
+								<i></i>
+							</span>
+						</button>
+					</div>
+					<div class="dropdown-menu" id="dropdown-menu2" role="menu">
+						<div class="dropdown-content">
+							<div class="dropdown-item">
+								<p>You can insert <strong>any type of content</strong> within the dropdown menu.</p>
+							</div>
+							<hr class="dropdown-divider">
+							<div class="dropdown-item">
+								<p><img src="https://placeimg.com/320/300/animals/grayscale" style="width:100%;" /></p>
+							</div>
+							<hr class="dropdown-divider">
+							<a href="#" class="dropdown-item">
+								This is a link
+							</a>
+						</div>
+					</div>
+				</div>
+			</li>
+		</ul>
+	</div>
+	<div class="grid-child-element yellow">
+		<ul style="padding-left: 0px;">
+			<li>
+				<div class="dropdown ml-5">
+					<div class="dropdown-trigger">
+						<button class="button" aria-haspopup="true" aria-controls="dropdown-menu2">
+							<h4>Accolades</h4>
+							<span class="icon is-large">
+								<input type="checkbox" checked>
+								<i></i>
+							</span>
+						</button>
+					</div>
+					<div class="dropdown-menu" id="dropdown-menu2" role="menu">
+						<div class="dropdown-content">
+							<div class="dropdown-item">
+								<p>You can insert <strong>any type of content</strong> within the dropdown menu.</p>
+							</div>
+							<hr class="dropdown-divider">
+							<div class="dropdown-item">
+								<p><img src="https://placeimg.com/320/300/animals/grayscale" style="width:100%;" /></p>
+							</div>
+							<hr class="dropdown-divider">
+							<a href="#" class="dropdown-item">
+								This is a link
+							</a>
+						</div>
+					</div>
+				</div>
+			</li>
+		</ul>
+	</div>
 </div>
 
 <h2> Professional Experience </h2>
