@@ -3,13 +3,9 @@ layout: default
 title: Resume
 permalink: /resume/
 ---
-<!doctype html>
-<html lang="en">
-    <meta charset="UTF-8">
-    <link rel="stylesheet" href="style.css">
     <div class="page">
       <div class="section row">
-        <h1 class="col">Ryan<span style="font-weight:700"> Grajewski</span></h1>
+        <h10 class="col">Ryan<span style="font-weight:700"> Grajewski</span></h10>
         <div class="contact-info col" style="break-after: always; margin-left: 29.2%; margin-top: -2px; margin-bottom:0px;">
           <a style="margin-bottom: 3px;" id="pdf" href="#" style="margin-right: 0px;">Download PDF</a><br><br>
           <div style="margin-bottom: 3px;">703 . 939 . 7089</div>
@@ -17,18 +13,18 @@ permalink: /resume/
           <div style="margin-bottom: 3px;"><a href="http://ryangrajewski.com">https://ryangrajewski.com</a></div>
         </div>
         <div class="section-text col" style="margin-top: -31px; margin-bottom: 0px;">
-          <h4>
+          <h7>
             mechanical engineer
-          </h4>
+          </h7>
         </div>
       </div>
       <div class="section row">
-        <h2 class="col">Profile</h2>
+        <h9 class="col">Profile</h9>
         <div class="section-text col-right row" style="text-align: justify;"> I am a hands-on, big-picture critical thinker, and I have the people skills that enable me to thrive in the collaborative environments that drive innovation. I am motivated by the prospect of contributing to new, impactful technologies at the intersection of mechanical design, artificial intelligence, and robotics.
         </div>
       </div>
       <div class="section row">
-        <h2 class="col">Education</h2>
+        <h9 class="col">Education</h9>
         <div class="section-text col-right">
           <div class="row">
             <h5><span class="emph">Master of Science</span> in Mechanical Engineering</h5>
@@ -52,7 +48,7 @@ permalink: /resume/
       </div>
       <div class="section row">
         <div class="section row">
-          <h2 class="col">Experience</h2>
+          <h9 class="col">Experience</h9>
           <div class="section-text col-right">
             <div class="row">
               <div class="col">
@@ -105,28 +101,28 @@ permalink: /resume/
           </div>
         </div>
         <div class="section row">
-          <h2 class="col" style="text-align: left;">Skills & Proficiencies</h2>
+          <h9 class="col" style="text-align: left;">Skills & Proficiencies</h9>
           <div class="section-text col-right row">
             <ul class="skills" style="width:25%">
-              <h3>
-                Coding / Software</h3>
+              <h8>
+                Coding / Software</h8>
               <li>C++, Java</li>
               <li>Javascript</li>
               <li>Python, PHP</li>
               <li>HTML5, CSS3, SVG</li>
             </ul>
             <ul class="skills" style="width:35%;">
-              <h3>
+              <h8>
                 Fabrication
-              </h3>
+              </h8>
               <li>Qt, OpenGL/SDL, V8</li>
               <li>jQuery, backbone, node</li>
               <li>Django, App engine</li>
               <li>LESS, Bootstrap, d3.js</li>
             </ul>
             <ul class="skills">
-              <h3>
-                Relevant Coursework</h3>
+              <h8>
+                Relevant Coursework</h8>
               <li>MySQL, MongoDB</li>
               <li>grunt, jasmine</li>
               <li>Flash, Actionscript 3</li>
@@ -135,7 +131,7 @@ permalink: /resume/
           </div>
         </div>
         <div class="section row">
-          <h2 class="col">Projects</h2>
+          <h9 class="col">Projects</h9>
           <div class="section-text col-right">
             <h5>See my portfolio website: <a href="https://ryangrajewski.com" style="text-decoration: underline;">ryangrajewski.com</a></h5>
           </div>
