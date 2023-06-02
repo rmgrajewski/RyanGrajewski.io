@@ -24,13 +24,13 @@ permalink: /resume/
   <div class="col">
     <div class="style1">Ryan<span style="font-weight:700"> Grajewski</span></div>
   </div>
-  <div class="contact-info col" style="break-after: always; margin-left: 50%; margin-top: -2px; margin-bottom:0px;">
+  <div class="contact-info col" style="break-after: always; margin-left: 80%; margin-top: -80px; margin-bottom:0px;">
     <div class="downloadButton" style="margin-bottom: 3px;" id="pdf" href="#" style="margin-right: 0px;">Download PDF</div><br><br>
     <div style="margin-bottom: 3px;">703 . 939 . 7089</div>
     <div style="margin-bottom: 3px;"><a href="rmgrajewski@gmail.com" style="color:">rmgrajewski@gmail.com</a></div>
     <div style="margin-bottom: 3px;"><a href="http://ryangrajewski.com">https://ryangrajewski.com</a></div>
   </div>
-  <div class="section-text col" style="margin-top: -31px; margin-bottom: 0px;">
+  <div class="section-text col" style="margin-top: -40px; margin-bottom: 0px;">
     <div class="style4">
       mechanical engineer
     </div>
@@ -85,10 +85,10 @@ permalink: /resume/
             <div class="accordion-item" id="question1">
               <a class="accordion-link" href="#question1" onclick="toggleAccordion('question1')">
                 <div class="style6">United Parcel Service</div>
-                <div class="col-left" style="position:relative; margin-top:4%;margin-left:-28%; font-size:20px; font-variant: small-caps;font-family: Roboto, sans-serif;">
+                <div class="col-left" style="position:relative; margin-top:5%;margin-left:-30.5%; font-size:20px; font-variant: small-caps;font-family: Roboto, sans-serif;">
                   r&d mechaincal engineering intern
                 </div>
-                <div class="col-left" style="position:relative; margin-top:2%;margin-left:40%; font-size:15px; font-variant: small-caps;font-family: Roboto, sans-serif;">
+                <div class="col-left" style="position:relative; margin-top:2%;margin-left:30%; font-size:15px; font-variant: small-caps;font-family: Roboto, sans-serif;">
                   MAY 2022 - MAY 2023
                 </div>
                 <i class="icon ion-md-arrow-forward"></i>
@@ -109,10 +109,10 @@ permalink: /resume/
             <div class="accordion-item" id="question2">
               <a class="accordion-link" href="#question2" onclick="toggleAccordion('question2')">
                 <div class="style6">Safran Data Systems Inc.</div>
-                <div class="col-left" style="position:relative; margin-top:3.5%;margin-left:-31.5%; font-size:20px; font-variant: small-caps;font-family: Roboto, sans-serif;">
+                <div class="col-left" style="position:relative; margin-top:4.5%;margin-left:-35%; font-size:20px; font-variant: small-caps;font-family: Roboto, sans-serif;">
                   quality engineering and supply chain intern
                 </div>
-                <div class="col-left" style="position:relative; margin-top:2%;margin-left:30%; font-size:15px; font-variant: small-caps;font-family: Roboto, sans-serif;">
+                <div class="col-left" style="position:relative; margin-top:2%;margin-left:18.5%; font-size:15px; font-variant: small-caps;font-family: Roboto, sans-serif;">
                   MAY 2021 - AUG 2021
                 </div>
                 <i class="icon ion-md-arrow-forward"></i>
@@ -134,10 +134,10 @@ permalink: /resume/
             <div class="accordion-item" id="question3">
               <a class="accordion-link" href="#question3" onclick="toggleAccordion('question3')">
                 <div class="style6">Pro-Type Industries</div>
-                <div class="col-left" style="position:relative; margin-top:3.5%;margin-left:-25.5%; font-size:20px; font-variant: small-caps;font-family: Roboto, sans-serif;">
+                <div class="col-left" style="position:relative; margin-top:4.5%;margin-left:-28.5%; font-size:20px; font-variant: small-caps;font-family: Roboto, sans-serif;">
                   machine shop apprentice
                 </div>
-                <div class="col-left" style="position:relative; margin-top:2%;margin-left:50%; font-size:15px; font-variant: small-caps;font-family: Roboto, sans-serif;">
+                <div class="col-left" style="position:relative; margin-top:2%;margin-left:42%; font-size:15px; font-variant: small-caps;font-family: Roboto, sans-serif;">
                   MAY 2021 - AUG 2021
                 </div>
                 <i class="icon ion-md-arrow-forward"></i>
@@ -168,13 +168,13 @@ permalink: /resume/
     <div class="style2">Skills & Proficiencies</div>
   </div>
   <div class="section-text col-right row">
-    <ul class="skills" style="width:31%; color: #444;">
+    <ul class="skills" style="width:30.75%; color: #444;">
       <div class="style3">Coding / Software</div>
       <li><b>Coding:</b> Matlab, Python, C (novice), C# (novice), Arduino, HTML5, css3, Javascript (novice), Git</li>
       <li><b>CAD:</b> Solidworks, OnShape, Fusion360</li>
       <li><b>FEA:</b> ANSYS, Solidworks Simulation</li>
       </ul>
-      <ul class="skills" style="width:31%; color: #444;">
+      <ul class="skills" style="width:30.5%; color: #444;">
         <div class="style3">
           Fabrication
         </div>
@@ -182,7 +182,7 @@ permalink: /resume/
         <li><b>Machining:</b> CNC Mill, Lathe</li>
         <li><b>Forming:</b> 3D Printing, Sheet Metal Bending (hydraulic brake and handbrake), Pipe Bending, TIG Welding (novice)</li>
       </ul>
-      <ul class="skills" style="width=31%; color: #444;">
+      <ul class="skills" style="width=30.75%; color: #444;">
         <div class="style3">
           Patents & Certifications</div>
         <li><span style="font-weight:bold;">Patents:</span> Named Primary Inventor on Provisional Patent Application owned by UPS (filed 2/9/2023)</li>
@@ -191,16 +191,16 @@ permalink: /resume/
       </ul>
     </div>
   </div>
-  <div class="section row">
-    <div class="col">
-      <div class="style2">Projects</div>
-    </div>
-    <div class="section-text col-right">
-      <div class="style5">See my portfolio website: <div class="downloadButton" href="https://ryangrajewski.com" style="text-decoration: underline;">ryangrajewski.com</div>
-      </div>
-    </div>
+</div>
+<div class="section row">
+  <div class="col">
+    <div class="style2">Projects</div>
+  </div>
+  <div class="section-text col-right">
+    <div class="style5">See my portfolio website: <div class="downloadButton" href="https://ryangrajewski.com" style="text-decoration: underline;">ryangrajewski.com</div></div>
   </div>
 </div>
+
 
 
 

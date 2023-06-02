@@ -136,7 +136,7 @@ li {
   }
   
   .accordion-item.active .answer {
-	max-height: 20rem;
+	max-height: 44rem;
   }
   
   .accordion-item.active .accordion-link .ion-md-arrow-forward {
@@ -146,6 +146,7 @@ li {
   .accordion-item.active .accordion-link .ion-md-arrow-down {
 	display: block;
   }
+  
   
   .style6 {
 	font-size: 22px;
@@ -816,7 +817,6 @@ p.attr {
 
 .scheme-jlb-invert a {
 	color: #9a9a9a;
-	text-decoration: underline;
 }
 
 .scheme-jlb-invert .sidebar {
