@@ -12,17 +12,13 @@ permalink: /resume/
   <link href="https://fonts.googleapis.com/css?family=Merriweather:300,400,700|Source+Sans+Pro:400,400i" rel="stylesheet">
     <script src="https://unpkg.com/ionicons@5.1.2/dist/ionicons.js"></script>
   <link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
+  <script>
+    function toggleAccordion(id) {
+    const item = document.getElementById(id);
+    item.classList.toggle("active");
+    }
+  </script>
 </head>
-
-<head>
-  <meta charset="UTF-8">
-  <title>Ryan Grajewski - Resume</title>
-  <link rel="stylesheet" href="style.css">
-  <link href="https://fonts.googleapis.com/css?family=Merriweather:300,400,700|Source+Sans+Pro:400,400i" rel="stylesheet">
-  <script src="https://unpkg.com/ionicons@5.1.2/dist/ionicons.js"></script>
-  <link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
-</head>
-
 
 <div class="section row">
   <div class="col">
