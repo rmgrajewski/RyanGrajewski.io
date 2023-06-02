@@ -152,7 +152,7 @@ permalink: /resume/
   <div class="col" style="text-align: left;">
     <div class="style2">Skills & Proficiencies</div>
   </div>
-  <div class="section-text col-right row" style="diplay:inline-flex;">
+  <div class="section-text col-right row" style="display:inline-flex;">
     <ul class="skills" style="width:max-content; color: #444;">
       <div class="style3">
         Coding / Software
