@@ -84,12 +84,13 @@ permalink: /resume/
     </div>
     <div class="row subsection">
       <div class="emph col" style="flmargin-top:1%; font-variant: small-caps;">r&d mechanical engineering intern</div>
+    </div>
       <ul class="desc" style="margin-top:0">
-        <li class="jobBullet1">Designed, prototyped, and tested a compact package handling technology capable of accepting a package, determining the package’s orientation, and manipulating/rotating it into any desired final orientation for further sorting and/or placement into subsequent package handling systems.</li>
-        <li class="jobBullet2">Invention selected for patenting – designated as primary inventor. Provisional patent application filed 2/9/2022.</li>
-        <li class="jobBullet1">Initiated a “10% Project” in collaboration with the Smart Package Smart Facility team to explore a novel use-case for a mobile sensor technology in automated sorting facilities aimed at improving package traceability while circumventing traditional sensor hardware costs and power requirements.</li>
-        <li class="jobBullet2">Devised proof-of-concept hardware and experimentation setup, recorded data and articulated results, and presented findings to ATG team members</li>
-        <li class="jobBullet1">ATG internal engineering consulting – supported other ATG initiatives with idea generation, mechanical design or CAD, and rapid fabrication services (often 1-2 day turnarounds) using shop equipment like the OMAX 55100 Abrasive Waterjet, CNC Mill, 3D Printer, Cold Saw, and welding station.</li>
+        <li style="font-size:14.5px;">Designed, prototyped, and tested a compact package handling technology capable of accepting a package, determining the package’s orientation, and manipulating/rotating it into any desired final orientation for further sorting and/or placement into subsequent package handling systems.</li>
+        <li style="font-size:14.5px; list-style-position:inside; list-style-type:circle;">Invention selected for patenting – designated as primary inventor. Provisional patent application filed 2/9/2022.</li>
+        <li style="font-size:14.5px;">Initiated a “10% Project” in collaboration with the Smart Package Smart Facility team to explore a novel use-case for a mobile sensor technology in automated sorting facilities aimed at improving package traceability while circumventing traditional sensor hardware costs and power requirements.</li>
+        <li style="font-size:14.5px; list-style-position:inside; list-style-type:circle;">Devised proof-of-concept hardware and experimentation setup, recorded data and articulated results, and presented findings to ATG team members</li>
+        <li style="font-size:14.5px;">ATG internal engineering consulting – supported other ATG initiatives with idea generation, mechanical design or CAD, and rapid fabrication services (often 1-2 day turnarounds) using shop equipment like the OMAX 55100 Abrasive Waterjet, CNC Mill, 3D Printer, Cold Saw, and welding station.</li>
       </ul>
     </div>
   <div class="section-text col-right">
