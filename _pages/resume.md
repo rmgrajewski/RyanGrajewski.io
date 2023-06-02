@@ -84,13 +84,7 @@ permalink: /resume/
           <div class="accordion">
             <div class="accordion-item" id="question1">
               <a class="accordion-link" href="#question1" onclick="toggleAccordion('question1')">
-                <div class="style6">United Parcel Service</div>
-                <div class="col-left" style="position:relative; margin-top:5%;margin-left:-30.5%; font-size:20px; font-variant: small-caps;font-family: Roboto, sans-serif;">
-                  r&d mechaincal engineering intern
-                </div>
-                <div class="col-left" style="position:relative; margin-top:2%;margin-left:30%; font-size:15px; font-variant: small-caps;font-family: Roboto, sans-serif;">
-                  MAY 2022 - MAY 2023
-                </div>
+                <div class="style6">United Parcel Service -  &nbsp;<span style="color: #808080;">r&d mechanical engineering intern</span><br><span class="light" style="font-size:14px;">may 2022 - may 2023</span></div>
                 <i class="icon ion-md-arrow-forward"></i>
                 <i class="icon ion-md-arrow-down"></i>
               </a>
@@ -108,13 +102,7 @@ permalink: /resume/
             </div>
             <div class="accordion-item" id="question2">
               <a class="accordion-link" href="#question2" onclick="toggleAccordion('question2')">
-                <div class="style6">Safran Data Systems Inc.</div>
-                <div class="col-left" style="position:relative; margin-top:4.5%;margin-left:-35%; font-size:20px; font-variant: small-caps;font-family: Roboto, sans-serif;">
-                  quality engineering and supply chain intern
-                </div>
-                <div class="col-left" style="position:relative; margin-top:2%;margin-left:18.5%; font-size:15px; font-variant: small-caps;font-family: Roboto, sans-serif;">
-                  MAY 2021 - AUG 2021
-                </div>
+                <div class="style6">Safran Data Systems Inc. - &nbsp;<span style="color: #808080;">quality engineering and supply chain intern</span><br><span class="light" style="font-size:14px;">may 2021 - aug 2021</span></div>
                 <i class="icon ion-md-arrow-forward"></i>
                 <i class="icon ion-md-arrow-down"></i>
               </a>
@@ -133,13 +121,7 @@ permalink: /resume/
             </div>
             <div class="accordion-item" id="question3">
               <a class="accordion-link" href="#question3" onclick="toggleAccordion('question3')">
-                <div class="style6">Pro-Type Industries</div>
-                <div class="col-left" style="position:relative; margin-top:4.5%;margin-left:-28.5%; font-size:20px; font-variant: small-caps;font-family: Roboto, sans-serif;">
-                  machine shop apprentice
-                </div>
-                <div class="col-left" style="position:relative; margin-top:2%;margin-left:42%; font-size:15px; font-variant: small-caps;font-family: Roboto, sans-serif;">
-                  MAY 2021 - AUG 2021
-                </div>
+                <div class="style6">Pro-Type Industries - &nbsp;<span style="color: #808080;">machine shop apprentice</span><br><span class="light" style="font-size:14px;">may 2019 - aug 2019</span></div>
                 <i class="icon ion-md-arrow-forward"></i>
                 <i class="icon ion-md-arrow-down"></i>
               </a>
