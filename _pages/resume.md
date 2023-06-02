@@ -28,36 +28,35 @@ permalink: /resume/
 
 <div class="section row">
 <div class="col"><div class="style2">Profile</div></div>
-  <div class="section-text col-right row" style="text-align: justify;"> I am a hands-on, big-picture critical thinker, and I have the people skills that enable me to thrive in the collaborative environments that drive innovation. I am motivated by the prospect of contributing to new, impactful technologies at the intersection of mechanical design, artificial intelligence, and robotics.
+  <div class="section-text col-right row" style="text-align: justify; float:left; width: 84%;"> I am a hands-on, big-picture critical thinker, and I have the people skills that enable me to thrive in the collaborative environments that drive innovation. I am motivated by the prospect of contributing to new, impactful technologies at the intersection of mechanical design, artificial intelligence, and robotics.
   </div>
 </div>
 <div class="section row">
 <div class="col"><div class="style2">Education</div></div>
-  <div class="section-text col-right">
+  <div class="section-text col-right" style="float:left; margin-left:2%;">
     <div class="row">
       <div class="style5"><span class="emph">Master of Science</span> in Mechanical Engineering</div>
       <div class="col-right light" style="margin-top: -26px;">Graduated: May 2023</div>
     </div>
-    <div style="font-style: oblique;">Georgia Institute of Technology</div>
+    <div style="font-style: oblique; margin-left:-2%;">Georgia Institute of Technology</div>
     <div class="row">
       <div class="col light">Program of Study - Automation, Robotics, and Controls</div>
     </div>
   </div>
-  <div class="section-text col-right">
+  <div class="section-text col-right" style="float:left; margin-left:2%;">
     <div class="row">
       <div class="style5"><span class="emph">Bachelor of Science</span> in Mechanical Engineering</div>
       <div class="col-right light" style="margin-top: -26px;">Graduated: May 2022<br>Highest Honors</div>
     </div>
-    <div style="font-style: oblique; margin-top:-27px">Georgia Institute of Technology</div>
+    <div style="font-style: oblique; margin-top:-27px margin-left:-2%;">Georgia Institute of Technology</div>
     <div class="row">
       <div class="col light">Major GPA: 3.84/4.0, Overall GPA: 3.66/4.0</div>
     </div>
   </div>
 </div>
 
-<div class="section row">
   <div class="section row">
-  <div class="col"><div class="style2">Experience</div></div>
+  <div class="col"><div class="style2" style="margin-left:10%;">Experience</div></div>
     <div class="section-text col-right">
       <div class="row">
         <div class="col">
@@ -80,7 +79,7 @@ permalink: /resume/
       <div class="row">
         <div class="col">
           <div class="style6">Safran Data Systems Inc.</div><span style="font-style:oblique; color:#666666; font-size:13.5px; text-align:justify; ;margin-right:0;">SDS inc. is a subsidiary of French-owned Safran Group, specializing in the design and manufacture of equipment and antennas for on-board and ground telemetry, embedded data treatments, data acquisition, data recording, satellite control and remote sensing in the aerospace industry</span>
-          <div class="col-right light" style="position:absolute; top:51.8em; right:1.5%;">May 2021 - August 2021</div>
+          <div class="col-right light" style="position:absolute; top:65em; right:1.5%;">May 2021 - August 2021</div>
         </div>
       </div>
       <div class="row subsection">
@@ -98,8 +97,8 @@ permalink: /resume/
     <div class="section-text col-right">
       <div class="row">
         <div class="col">
-          <div class="style6">Pro-Type Industries</div><span style="font-style:oblique; color:#666666; font-size:13.5px; text-align:justify; ;margin-right:0;">Based in Sterling, VA, Pro-Type Industries is a precision machine shop which specializes in sheet metal fabrication, CNC Machining, and prototyping for the Aerospace, Military, and Technology industries.</span>
-          <div class="col-right light" style="position:absolute; top:72.8em; right:1.5%;">May 2019 - August 2019</div>
+          <div class="style6">Pro-Type Industries</div><span style="font-style:oblique; color:#666666; font-size:13.5px; text-align:justify; ;margin-right:0;">Based in Sterling, VA, Pro-Type Industries is a precision machine shop which specializes in sheet metal fabrication, CNC Machining, <span style="color:white;">a</span>and prototyping for the Aerospace, Military, and Technology industries.</span>
+          <div class="col-right light" style="position:absolute; top:96.8em; right:1.5%;">May 2019 - August 2019</div>
         </div>
       </div>
       <div class="row subsection">
@@ -115,23 +114,22 @@ permalink: /resume/
   <div class="section row">
   <div class="col" style="text-align: left;"><div class="style2">Skills & Proficiencies</div></div>
     <div class="section-text col-right row">
-      <ul class="skills" style="width:31%; color: #444;">
+      <ul class="skills" style="width:30.75%; color: #444;">
         <div class="style3">
           Coding / Software</div>
         <li><b>Coding:</b> Matlab, Python, C (novice), C# (novice), Arduino, HTML5, css3, Javascript (novice), Git</li>
         <li><b>CAD:</b> Solidworks, OnShape, Fusion360</li>
         <li><b>FEA:</b> ANSYS, Solidworks Simulation</li>
       </ul>
-      <ul class="skills" style="width:31%; color: #444;">
+      <ul class="skills" style="width:30.75%; color: #444;">
         <div class="style3">
           Fabrication
         </div>
         <li><b>Cutting:</b> Waterjet, Laser Cutting/Engraving, Cold Saw, Woodworking tools</li>
         <li><b>Machining:</b> CNC Mill, Lathe</li>
         <li><b>Forming:</b> 3D Printing, Sheet Metal Bending (hydraulic brake and handbrake), Pipe Bending, TIG Welding (novice)</li>
-
       </ul>
-      <ul class="skills" style="width=31%; color: #444;">
+      <ul class="skills" style="width=30.75%; color: #444;">
         <div class="style3">
           Patents & Certifications</div>
         <li><span style="font-weight:bold;">Patents:</span> Named Primary Inventor on Provisional Patent Application owned by UPS (filed 2/9/2023)</li>
@@ -148,9 +146,6 @@ permalink: /resume/
   </div>
 
 
-
-
-</div>
 
 
 
