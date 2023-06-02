@@ -69,6 +69,128 @@ li {
 	margin: 10px 0;
 }
 
+
+.container_accordion{
+	width: 100%;
+	max-width: 80rem;
+	margin: 0 auto;
+	padding: 0 1.5rem;
+  }
+  
+  .accordion-item{
+	border-radius: .4rem;
+  }
+  
+  .accordion-item hr{
+	border: 1px solid #C34743;
+  }
+  
+  .accordion-link{
+	font-size: 1.6rem;
+	color: #444;
+	text-decoration: none;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+  }
+  
+  .accordion-link h3{
+	font-weight:500;
+	font-size: 20px;
+  }
+  
+  .accordion-link i{
+	color: #444;
+	padding: .5rem;
+  }
+  
+  .accordion-link ul{
+	display:flex;
+	align-items: center;
+	list-style-type: none;
+	font-family: Roboto, sans-serif;
+	color: #555;
+  }
+  
+  .accordion-link li{
+	font-size: 15px;
+	color: #444;
+	font-family: Roboto, sans-serif;
+	align-items: center;
+  }
+  
+  .accordion-link div{
+	display: flex;
+  }
+  
+  .accordion-link .ion-md-arrow-down{
+	display: none;
+  }
+  
+  .answer{
+	max-height: 0;
+	overflow: hidden;
+	position: relative;
+	transition: max-height 650ms;
+  }
+  
+  .accordion-item.active .answer {
+	max-height: 20rem;
+  }
+  
+  .accordion-item.active .accordion-link .ion-md-arrow-forward {
+	display: none;
+  }
+  
+  .accordion-item.active .accordion-link .ion-md-arrow-down {
+	display: block;
+  }
+  
+  .style6 {
+	font-size: 22px;
+	font-variant: small-caps;
+	color: #555;
+	text-align: left;
+	font-weight: 600;
+	line-height: 28px;
+	font-family: Roboto, sans-serif;
+	align-items:center;
+  }
+  
+  .companyProfile {
+	font-style:oblique;
+	color:#666666;
+	font-size:13.5px;
+	text-align:justify;
+	margin-right:0;
+	font-family: Roboto, sans-serif;
+	margin-bottom: 1.5%;
+	padding-bottom: 14px;
+	border-bottom: .5px solid #444;
+  }
+  
+  .jobBullet1 {
+	font-size:14.5px;
+	list-style-position:outside;
+	margin-left:1%;
+	margin-top:12px;
+	font-family: Roboto, sans-serif;
+  }
+  
+  .jobBullet1:last-child {
+	margin-bottom:2%;
+  }
+  
+  .jobBullet2 {
+	font-size:14.5px;
+	list-style-position:inside;
+	list-style-type:circle;
+	margin-left:3%;
+	margin-top:7px;
+	font-family: Roboto, sans-serif;
+  }
+
 /* RESUME PAGE STYLE */
 
 * {
@@ -139,18 +261,17 @@ li {
 }
 
 .style6 {
-  font-size: 22px;
-  font-variant: small-caps;
-  color: black;
-  text-align: left;
-  margin-right: 2.2%;
-  font-weight: 600;
- 
-  margin-bottom: 0;
-  line-height: 28px;
-  font-family: Roboto, sans-serif;
-  margin-top: -12px;
-  border-bottom: 1px solid #C34743;
+    font-size: 22px;
+    font-variant: small-caps;
+    color: black;
+    text-align: left;
+    margin-right: 2.2%;
+    font-weight: 600;
+    margin-bottom: 0;
+    line-height: 28px;
+    font-family: Roboto, sans-serif;
+    margin-top: -12px;
+    border-bottom: 1px solid #C34743;
 }
 
 .style2 {
@@ -256,9 +377,6 @@ ul.skills li:last-child {
   margin: 0;
 }
 
-/*
- Float Rules
-*/
 .row:before,
 .row:after {
   content: "";
@@ -276,10 +394,6 @@ ul.skills li:last-child {
 .col-right {
   float: right
 }
-
-/*
- Page Rules
-*/
 
 
 .subpage {
@@ -375,6 +489,8 @@ ul.skills li:last-child {
   background: #802C29;
   text-decoration: underline;
 }
+
+/* RESUME DROPDOWN STUFF */
 
 /* SPECIALIZED MARKDOWN CONTENT */
 .center-image

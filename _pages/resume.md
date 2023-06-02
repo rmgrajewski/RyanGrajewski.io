@@ -55,62 +55,91 @@ permalink: /resume/
   </div>
 </div>
 
+
   <div class="section row">
-  <div class="col"><div class="style2" style="margin-left:10%;">Experience</div></div>
-    <div class="section-text col-right">
-      <div class="row">
-        <div class="col">
-          <div class="style6">United Parcel Service - Advanced Technology Group (ATG)</div><span style="font-style:oblique; color:#666666; font-size:13.5px; text-align:justify; ;margin-right:0;">ATG is UPS’ foremost advanced R&D team, responsible for identifying, validating, and rapidly deploying innovative solutions which address a range of opportunities that face UPS in material handling, transportation, and logistics. </span>
-          <div class="col-right light" style="float: right; position:absolute; top:36em; right:1.5%;">May 2022 - May 2023</div>
-        </div>
-      </div>
-      <div class="row subsection">
-        <div class="emph col" style="flmargin-top:1%; font-variant: small-caps;">r&d mechanical engineering intern</div>
-      </div>
-      <ul class="desc" style="margin-top:0">
-        <li style="font-size:14.5px; list-style-position:outside; list-style-type:disc;">Designed, prototyped, and tested a compact package handling technology capable of accepting a package, determining the package’s orientation, and manipulating/rotating it into any desired final orientation for further sorting and/or placement into subsequent package handling systems.</li>
-        <li style="font-size:14.5px; list-style-position:inside; list-style-type:circle; margin-left: 4%;">Invention selected for patenting – designated as primary inventor. Provisional patent application filed 2/9/2022.</li>
-        <li style="font-size:14.5px; list-style-position:outside; list-style-type:disc;">Initiated a “10% Project” in collaboration with the Smart Package Smart Facility team to explore a novel use-case for a mobile sensor technology in automated sorting facilities aimed at improving package traceability while circumventing traditional sensor hardware costs and power requirements.</li>
-        <li style="font-size:14.5px; list-style-position:inside; list-style-type:circle; margin-left:4%;">Devised proof-of-concept hardware and experimentation setup, recorded data and articulated results, and presented findings to ATG team members</li>
-        <li style="font-size:14.5px; list-style-position:outside; list-style-type:disc;">ATG internal engineering consulting – supported other ATG initiatives with idea generation, mechanical design or CAD, and rapid fabrication services (often 1-2 day turnarounds) using shop equipment like the OMAX 55100 Abrasive Waterjet, CNC Mill, 3D Printer, Cold Saw, and welding station.</li>
-      </ul>
+    <div class="col">
+      <div class="style2">Experience</div>
     </div>
     <div class="section-text col-right">
       <div class="row">
         <div class="col">
-          <div class="style6">Safran Data Systems Inc.</div><span style="font-style:oblique; color:#666666; font-size:13.5px; text-align:justify; ;margin-right:0;">SDS inc. is a subsidiary of French-owned Safran Group, specializing in the design and manufacture of equipment and antennas for on-board and ground telemetry, embedded data treatments, data acquisition, data recording, satellite control and remote sensing in the aerospace industry</span>
-          <div class="col-right light" style="position:absolute; top:65em; right:1.5%;">May 2021 - August 2021</div>
+        
+<div class="container_accordion">
+  <div class="accordion">
+    <div class="accordion-item" id="question1">
+      <a class="accordion-link" href="#question1" onclick="toggleAccordion('question1')">
+      <div class="style6">United Parcel Service</div>
+          <div class="col-left" style="position:relative; margin-top:4%;margin-left:-28%; font-size:20px; font-variant: small-caps;font-family: Roboto, sans-serif;">
+          r&d mechaincal engineering intern
+          </div>
+          <div class="col-left" style="position:relative; margin-top:2%;margin-left:40%; font-size:15px; font-variant: small-caps;font-family: Roboto, sans-serif;">
+          MAY 2022 - MAY 2023
+          </div>
+        <i class="icon ion-md-arrow-forward"></i>
+        <i class="icon ion-md-arrow-down"></i>
+      </a>
+      <div class="answer">
+        <div class="companyProfile">
+          <a href="https://www.ups.com/">UPS's</a> Advanced Technology Group (ATG) is the foremost advanced R&D team, responsible for identifying, validating, and rapidly deploying innovative solutions which address a range of opportunities that face UPS in material handling, transportation, and logistics.
         </div>
+        <li class="jobBullet1">Designed, prototyped, and tested a compact package handling technology capable of accepting a package, determining the package’s orientation, and manipulating/rotating it into any desired final orientation for further sorting and/or placement into subsequent package handling systems.</li>
+        <li class="jobBullet2">Invention selected for patenting – designated as primary inventor. Provisional patent application filed 2/9/2022.</li>
+        <li class="jobBullet1">Initiated a “10% Project” in collaboration with the Smart Package Smart Facility team to explore a novel use-case for a mobile sensor technology in automated sorting facilities aimed at improving package traceability while circumventing traditional sensor hardware costs and power requirements.</li>
+        <li class="jobBullet2">Devised proof-of-concept hardware and experimentation setup, recorded data and articulated results, and presented findings to ATG team members</li>
+        <li class="jobBullet1">ATG internal engineering consulting – supported other ATG initiatives with idea generation, mechanical design or CAD, and rapid fabrication services (often 1-2 day turnarounds) using shop equipment like the OMAX 55100 Abrasive Waterjet, CNC Mill, 3D Printer, Cold Saw, and welding station.</li>
       </div>
-      <div class="row subsection">
-        <div class="emph col" style="margin-top:1%; font-variant: small-caps;">quality engineering and supply chain intern</div>
-      </div>
-      <ul class="desc" style="margin-top:0">
-        <li style="font-size:14.5px; list-style-position:outside; list-style-type:disc;">Earned AS9100:2016 (Rev D) Internal Auditor Certification and conducted internal audit interviews with employees from all facility operations in preparation for the company’s quality standard upgrade from ISO9001 to AS9100</li>
-        <li style="font-size:14.5px; list-style-position:inside; list-style-type:circle; margin-left:4%;">Documented audit evidence and worked with employees to develop resolution strategies for any out-of-code findings</li>
-        <li style="font-size:14.5px; list-style-position:outside; list-style-type:disc;">Performed Lean Six-Sigma/5S continuous improvement study of the electronics service lab. Identified major bottlenecks according to the DMAIC process and instituted workflow improvements that led to:</li>
-        <li style="font-size:14.5px; list-style-position:inside; list-style-type:circle; margin-left:4%;">25% reduction in tool misplacement by implementing a check-in/check-out system and by organizing workstations according to 5S</li>
-        <li style="font-size:14.5px; list-style-position:inside; list-style-type:circle; margin-left:4%;">7% increase in service efficiency by digitizing traveler documents and integrating them in an SQL database, enabling accurate tracking of KPIs</li>
-        <li style="font-size:14.5px; list-style-position:outside; list-style-type:disc;">Led document control effort for the quality management system; controlled Corrective Action Reports satisfying AS9100 internal improvement standards</li>
-      </ul>
+      <hr>
     </div>
-    <div class="section-text col-right">
-      <div class="row">
-        <div class="col">
-          <div class="style6">Pro-Type Industries</div><span style="font-style:oblique; color:#666666; font-size:13.5px; text-align:justify; ;margin-right:0;">Based in Sterling, VA, Pro-Type Industries is a precision machine shop which specializes in sheet metal fabrication, CNC Machining, <span style="color:white;">a</span>and prototyping for the Aerospace, Military, and Technology industries.</span>
-          <div class="col-right light" style="position:absolute; top:96.8em; right:1.5%;">May 2019 - August 2019</div>
+    <div class="accordion-item" id="question2">
+      <a class="accordion-link" href="#question2" onclick="toggleAccordion('question2')">
+          <div class="style6">Safran Data Systems Inc.</div>
+          <div class="col-left" style="position:relative; margin-top:3.5%;margin-left:-31.5%; font-size:20px; font-variant: small-caps;font-family: Roboto, sans-serif;">
+          quality engineering and supply chain intern
+          </div>
+          <div class="col-left" style="position:relative; margin-top:2%;margin-left:30%; font-size:15px; font-variant: small-caps;font-family: Roboto, sans-serif;">
+          MAY 2021 - AUG 2021
+          </div>
+        <i class="icon ion-md-arrow-forward"></i>
+        <i class="icon ion-md-arrow-down"></i>
+      </a>
+      <div class="answer">
+        <div class="companyProfile">
+          <a href="https://www.safrandatasystemsus.com/">Safran Data Systems Inc.</a> is a subsidiary of French-owned Safran Group, specializing in the design and manufacture of equipment and antennas for on-board and ground telemetry, embedded data treatments, data acquisition, data recording, satellite control, and remote sensing in the aerospace industry.
         </div>
+        <li class="jobBullet1">Earned AS9100:2016 (Rev D) Internal Auditor Certification and conducted internal audit interviews with employees from all facility operations in preparation for the company’s quality standard upgrade from ISO9001 to AS9100</li>
+        <li class="jobBullet2">Documented audit evidence and worked with employees to develop resolution strategies for any out-of-code findings</li>
+        <li class="jobBullet1">Performed Lean Six-Sigma/5S continuous improvement study of the electronics service lab. Identified major bottlenecks according to the DMAIC process and instituted workflow improvements that led to:</li>
+        <li class="jobBullet2">25% reduction in tool misplacement by implementing a check-in/check-out system and by organizing workstations according to 5S</li>
+        <li class="jobBullet2">7% increase in service efficiency by digitizing traveler documents and integrating them in an SQL database, enabling accurate tracking of KPIs</li>
+        <li class="jobBullet1">Led document control effort for the quality management system; controlled Corrective Action Reports satisfying AS9100 internal improvement standards</li>
       </div>
-      <div class="row subsection">
-        <div class="emph col" style="margin-top:1%; font-variant: small-caps;">machine shop apprentice</div>
-      </div>
-      <ul class="desc" style="margin-top:0">
-        <li style="font-size:14.5px; list-style-position:outside; list-style-type:disc;">Aided setup and execution of manufacturing processes in numerous departments including powder coating, CNC Milling, metal cutting, sheet metal bending, and widget finishing and inspection</li>
-        <li style="font-size:14.5px; list-style-position:outside; list-style-type:disc;">Performed Lean Six-Sigma/5S continuous improvement study of the electronics service lab. Identified major bottlenecks according to the DMAIC process and instituted workflow improvements that led to:</li>
-        <li style="font-size:14.5px; list-style-position:outside; list-style-type:disc;">Trained in aluminum TIG welding, basics of 9-axis CNC Mill programming, hydraulic brake press operation, plasma cutting machine setup</li>
-      </ul>
+      <hr>
     </div>
-  </div>
+    <div class="accordion-item" id="question3">
+      <a class="accordion-link" href="#question3" onclick="toggleAccordion('question3')">
+          <div class="style6">Pro-Type Industries</div>
+          <div class="col-left" style="position:relative; margin-top:3.5%;margin-left:-25.5%; font-size:20px; font-variant: small-caps;font-family: Roboto, sans-serif;">
+          machine shop apprentice
+          </div>
+          <div class="col-left" style="position:relative; margin-top:2%;margin-left:50%; font-size:15px; font-variant: small-caps;font-family: Roboto, sans-serif;">
+          MAY 2021 - AUG 2021
+          </div>
+        <i class="icon ion-md-arrow-forward"></i>
+        <i class="icon ion-md-arrow-down"></i>
+      </a>
+      <div class="answer">
+        <div class="companyProfile">
+          <a href="https://www.safrandatasystemsus.com/">Safran Data Systems Inc.</a> is a subsidiary of French-owned Safran Group, specializing in the design and manufacture of equipment and antennas for on-board and ground telemetry, embedded data treatments, data acquisition, data recording, satellite control, and remote sensing in the aerospace industry.
+        </div>
+        <li class="jobBullet1">Earned AS9100:2016 (Rev D) Internal Auditor Certification and conducted internal audit interviews with employees from all facility operations in preparation for the company’s quality standard upgrade from ISO9001 to AS9100</li>
+        <li class="jobBullet2">Documented audit evidence and worked with employees to develop resolution strategies for any out-of-code findings</li>
+        <li class="jobBullet1">Performed Lean Six-Sigma/5S continuous improvement study of the electronics service lab. Identified major bottlenecks according to the DMAIC process and instituted workflow improvements that led to:</li>
+        <li class="jobBullet2">25% reduction in tool misplacement by implementing a check-in/check-out system and by organizing workstations according to 5S</li>
+        <li class="jobBullet2">7% increase in service efficiency by digitizing traveler documents and integrating them in an SQL database, enabling accurate tracking of KPIs</li>
+        <li class="jobBullet1">Led document control effort for the quality management system; controlled Corrective Action Reports satisfying AS9100 internal improvement standards</li>
+      </div>
+      <hr>
+    </div>
   <div class="section row">
   <div class="col" style="text-align: left;"><div class="style2">Skills & Proficiencies</div></div>
     <div class="section-text col-right row">
@@ -144,10 +173,6 @@ permalink: /resume/
       <div class="style5">See my portfolio website: <div class="downloadButton" href="https://ryangrajewski.com" style="text-decoration: underline;">ryangrajewski.com</div></div>
     </div>
   </div>
-
-
-
-
 
 
 
