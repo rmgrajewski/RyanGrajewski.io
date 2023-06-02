@@ -94,7 +94,7 @@ permalink: /resume/
               <div class="answer">
                 <div class="companyProfile">
                   <div class="light" style="font-size:15px;">may 2022 - may 2023</div>
-                  The <div class="link-doc"><a href="https://about.ups.com/us/en/our-stories/innovation-driven/atg-test-labs.html">Advanced Technology Group (ATG)</a></div> within UPS is the foremost advanced R&D team, responsible for identifying, validating, and rapidly deploying innovative solutions which address a range of opportunities that face UPS in material handling, transportation, and logistics.
+                  The <a href="https://about.ups.com/us/en/our-stories/innovation-driven/atg-test-labs.html" style="color:#C34743;">Advanced Technology Group (ATG)</a> within UPS is the foremost advanced R&D team, responsible for identifying, validating, and rapidly deploying innovative solutions which address a range of opportunities that face UPS in material handling, transportation, and logistics.
                 </div>
                 <li class="jobBullet1">Designed, prototyped, and tested a compact package handling technology capable of accepting a package, determining the package’s orientation, and manipulating/rotating it into any desired final orientation for further sorting and/or placement into subsequent package handling systems.</li>
                 <li class="jobBullet2">Invention selected for patenting – designated as primary inventor. Provisional patent application filed 2/9/2022.</li>
@@ -113,7 +113,7 @@ permalink: /resume/
               <div class="answer">
                 <div class="companyProfile">
                   <div class="light" style="font-size:15px;">may 2021 - aug 2021</div>
-                  <div class="link-doc"><a href="https://www.safrandatasystemsus.com/">Safran Data Systems Inc.</a></div> is a subsidiary of French-owned Safran Group, specializing in the design and manufacture of equipment and antennas for on-board and ground telemetry, embedded data treatments, data acquisition, data recording, satellite control, and remote sensing in the aerospace industry.
+                  <a href="https://www.safrandatasystemsus.com/" style="color:#C34743;">Safran Data Systems Inc.</a> is a subsidiary of French-owned Safran Group, specializing in the design and manufacture of equipment and antennas for on-board and ground telemetry, embedded data treatments, data acquisition, data recording, satellite control, and remote sensing in the aerospace industry.
                 </div>
                 <li class="jobBullet1">Earned AS9100:2016 (Rev D) Internal Auditor Certification and conducted internal audit interviews with employees from all facility operations in preparation for the company’s quality standard upgrade from ISO9001 to AS9100</li>
                 <li class="jobBullet2">Documented audit evidence and worked with employees to develop resolution strategies for any out-of-code findings</li>
@@ -133,7 +133,7 @@ permalink: /resume/
               <div class="answer">
                 <div class="companyProfile">
                   <div class="light" style="font-size:15px;">may 2019 - aug 2019</div>
-                  <div class="link-doc"><a href="http://www.pro-type.com/">Pro-Type Industries </a></div> is a precision machine shop based in Sterling VA,which specializes in sheet metal fabrication, CNC Machining, and prototyping for the Aerospace, Military, and Technology industries.
+                  <a href="http://www.pro-type.com/" style="color:#C34743;">Pro-Type Industries </a> is a precision machine shop based in Sterling VA,which specializes in sheet metal fabrication, CNC Machining, and prototyping for the Aerospace, Military, and Technology industries.
                 </div>
                 <li class="jobBullet1">Aided setup and execution of manufacturing processes in numerous departments including powder coating, CNC Milling, metal cutting, sheet metal bending, and widget finishing and inspection</li>
                 <li class="jobBullet1">Produced CAD drawing packages and documented fabrication instructions for small-scale sheet metal components used in the Aerospace industry</li>
