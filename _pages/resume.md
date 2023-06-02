@@ -37,6 +37,7 @@ permalink: /resume/
   </div>
 </div>
 
+
 <div class="section row">
   <div class="col">
     <div class="style2">Profile</div>
@@ -44,6 +45,8 @@ permalink: /resume/
   <div class="section-text col-right row" style="text-align: justify;"> I am a hands-on, big-picture critical thinker, and I have the people skills that enable me to thrive in the collaborative environments that drive innovation. I am motivated by the prospect of contributing to new, impactful technologies at the intersection of mechanical design, artificial intelligence, and robotics.
   </div>
 </div>
+
+
 <div class="section row">
   <div class="col">
     <div class="style2">Education</div>
@@ -84,13 +87,14 @@ permalink: /resume/
           <div class="accordion">
             <div class="accordion-item" id="question1">
               <a class="accordion-link" href="#question1" onclick="toggleAccordion('question1')">
-                <div class="style6">United Parcel Service -  &nbsp;<span style="color: #808080;">r&d mechanical engineering intern</span><br><span class="light" style="font-size:14px;">may 2022 - may 2023</span></div>
+                <div class="style6">United Parcel Service -  &nbsp;<span class="light" style="color: #808080;">r&d mechanical engineering intern</span></div>
                 <i class="icon ion-md-arrow-forward"></i>
                 <i class="icon ion-md-arrow-down"></i>
               </a>
               <div class="answer">
                 <div class="companyProfile">
-                  <a href="https://www.ups.com/">UPS's</a> Advanced Technology Group (ATG) is the foremost advanced R&D team, responsible for identifying, validating, and rapidly deploying innovative solutions which address a range of opportunities that face UPS in material handling, transportation, and logistics.
+                  <div class="light" style="font-size:15px;">may 2022 - may 2023</div>
+                  The <a href="https://about.ups.com/us/en/our-stories/innovation-driven/atg-test-labs.html">Advanced Technology Group (ATG)</a> within UPS is the foremost advanced R&D team, responsible for identifying, validating, and rapidly deploying innovative solutions which address a range of opportunities that face UPS in material handling, transportation, and logistics.
                 </div>
                 <li class="jobBullet1">Designed, prototyped, and tested a compact package handling technology capable of accepting a package, determining the package’s orientation, and manipulating/rotating it into any desired final orientation for further sorting and/or placement into subsequent package handling systems.</li>
                 <li class="jobBullet2">Invention selected for patenting – designated as primary inventor. Provisional patent application filed 2/9/2022.</li>
@@ -102,12 +106,13 @@ permalink: /resume/
             </div>
             <div class="accordion-item" id="question2">
               <a class="accordion-link" href="#question2" onclick="toggleAccordion('question2')">
-                <div class="style6">Safran Data Systems Inc. - &nbsp;<span style="color: #808080;">quality engineering and supply chain intern</span><br><span class="light" style="font-size:14px;">may 2021 - aug 2021</span></div>
+                <div class="style6">Safran Data Systems Inc. - &nbsp;<span class="light" style="color: #808080;">quality engineering and supply chain intern</span></div>
                 <i class="icon ion-md-arrow-forward"></i>
                 <i class="icon ion-md-arrow-down"></i>
               </a>
               <div class="answer">
                 <div class="companyProfile">
+                  <div class="light" style="font-size:15px;">may 2021 - aug 2021</div>
                   <a href="https://www.safrandatasystemsus.com/">Safran Data Systems Inc.</a> is a subsidiary of French-owned Safran Group, specializing in the design and manufacture of equipment and antennas for on-board and ground telemetry, embedded data treatments, data acquisition, data recording, satellite control, and remote sensing in the aerospace industry.
                 </div>
                 <li class="jobBullet1">Earned AS9100:2016 (Rev D) Internal Auditor Certification and conducted internal audit interviews with employees from all facility operations in preparation for the company’s quality standard upgrade from ISO9001 to AS9100</li>
@@ -121,20 +126,18 @@ permalink: /resume/
             </div>
             <div class="accordion-item" id="question3">
               <a class="accordion-link" href="#question3" onclick="toggleAccordion('question3')">
-                <div class="style6">Pro-Type Industries - &nbsp;<span style="color: #808080;">machine shop apprentice</span><br><span class="light" style="font-size:14px;">may 2019 - aug 2019</span></div>
+                <div class="style6">Pro-Type Industries - &nbsp;<span class="light" style="color: #808080;">machine shop apprentice</span></div>
                 <i class="icon ion-md-arrow-forward"></i>
                 <i class="icon ion-md-arrow-down"></i>
               </a>
               <div class="answer">
                 <div class="companyProfile">
-                  <a href="https://www.safrandatasystemsus.com/">Safran Data Systems Inc.</a> is a subsidiary of French-owned Safran Group, specializing in the design and manufacture of equipment and antennas for on-board and ground telemetry, embedded data treatments, data acquisition, data recording, satellite control, and remote sensing in the aerospace industry.
+                  <div class="light" style="font-size:15px;">may 2019 - aug 2019</div>
+                  <a href="http://www.pro-type.com/">Pro-Type Industries </a> is a precision machine shop based in Sterling VA,which specializes in sheet metal fabrication, CNC Machining, and prototyping for the Aerospace, Military, and Technology industries.
                 </div>
-                <li class="jobBullet1">Earned AS9100:2016 (Rev D) Internal Auditor Certification and conducted internal audit interviews with employees from all facility operations in preparation for the company’s quality standard upgrade from ISO9001 to AS9100</li>
-                <li class="jobBullet2">Documented audit evidence and worked with employees to develop resolution strategies for any out-of-code findings</li>
-                <li class="jobBullet1">Performed Lean Six-Sigma/5S continuous improvement study of the electronics service lab. Identified major bottlenecks according to the DMAIC process and instituted workflow improvements that led to:</li>
-                <li class="jobBullet2">25% reduction in tool misplacement by implementing a check-in/check-out system and by organizing workstations according to 5S</li>
-                <li class="jobBullet2">7% increase in service efficiency by digitizing traveler documents and integrating them in an SQL database, enabling accurate tracking of KPIs</li>
-                <li class="jobBullet1">Led document control effort for the quality management system; controlled Corrective Action Reports satisfying AS9100 internal improvement standards</li>
+                <li class="jobBullet1">Aided setup and execution of manufacturing processes in numerous departments including powder coating, CNC Milling, metal cutting, sheet metal bending, and widget finishing and inspection</li>
+                <li class="jobBullet1">Produced CAD drawing packages and documented fabrication instructions for small-scale sheet metal components used in the Aerospace industry</li>
+                <li class="jobBullet1">Trained in aluminum TIG welding, basics of 9-axis CNC Mill programming, hydraulic brake press operation, plasma cutting machine setup</li>
               </div>
               <hr>
             </div>
@@ -149,40 +152,43 @@ permalink: /resume/
   <div class="col" style="text-align: left;">
     <div class="style2">Skills & Proficiencies</div>
   </div>
-  <div class="section-text col-right row">
-    <ul class="skills" style="width:30.75%; color: #444;">
-      <div class="style3">Coding / Software</div>
+  <div class="section-text col-right row" style="diplay:inline-flex;">
+    <ul class="skills" style="width:auto; color: #444;">
+      <div class="style3">
+        Coding / Software
+      </div>
       <li><b>Coding:</b> Matlab, Python, C (novice), C# (novice), Arduino, HTML5, css3, Javascript (novice), Git</li>
       <li><b>CAD:</b> Solidworks, OnShape, Fusion360</li>
       <li><b>FEA:</b> ANSYS, Solidworks Simulation</li>
-      </ul>
-      <ul class="skills" style="width:30.5%; color: #444;">
-        <div class="style3">
-          Fabrication
-        </div>
-        <li><b>Cutting:</b> Waterjet, Laser Cutting/Engraving, Cold Saw, Woodworking tools</li>
-        <li><b>Machining:</b> CNC Mill, Lathe</li>
-        <li><b>Forming:</b> 3D Printing, Sheet Metal Bending (hydraulic brake and handbrake), Pipe Bending, TIG Welding (novice)</li>
-      </ul>
-      <ul class="skills" style="width=30.75%; color: #444;">
-        <div class="style3">
-          Patents & Certifications</div>
-        <li><span style="font-weight:bold;">Patents:</span> Named Primary Inventor on Provisional Patent Application owned by UPS (filed 2/9/2023)</li>
-        <li><b>Certifications:</b> Dekra Certified AS9100 Aerospace Quality Standard Internal Auditor</li>
-        <li>Lean Six-Sigma Certified White Belt</li>
-      </ul>
-    </div>
+    </ul>
+    <ul class="skills" style="width:auto; color: #444;">
+      <div class="style3">
+        Fabrication
+      </div>
+      <li><b>Cutting:</b> Waterjet, Laser Cutting/Engraving, Cold Saw, Woodworking tools</li>
+      <li><b>Machining:</b> CNC Mill, Lathe</li>
+      <li><b>Forming:</b> 3D Printing, Sheet Metal Bending (hydraulic brake and handbrake), Pipe Bending, TIG Welding (novice)</li>
+    </ul>
+    <ul class="skills" style="width=auto; color: #444;">
+      <div class="style3">
+        Patents & Certifications
+      </div>
+      <li><span style="font-weight:bold;">Patents:</span> Named Primary Inventor on Provisional Patent Application owned by UPS (filed 2/9/2023)</li>
+      <li><b>Certifications:</b> Dekra Certified AS9100 Aerospace Quality Standard Internal Auditor</li>
+      <li>Lean Six-Sigma Certified White Belt</li>
+    </ul>
   </div>
 </div>
+
 <div class="section row">
   <div class="col">
     <div class="style2">Projects</div>
   </div>
   <div class="section-text col-right">
-    <div class="style5">See my portfolio website: <div class="downloadButton" href="https://ryangrajewski.com" style="text-decoration: underline;">ryangrajewski.com</div></div>
+    <div class="style5">See my portfolio website: 
+      <div class="downloadButton" href="https://ryangrajewski.com" style="text-decoration: underline;">
+        ryangrajewski.com
+      </div>
+    </div>
   </div>
 </div>
-
-
-
-
