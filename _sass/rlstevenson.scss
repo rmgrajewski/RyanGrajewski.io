@@ -61,7 +61,6 @@ ul {
 }
 
 ul > li:before {
-  content: "–"; /* en dash */
   position: absolute;
   margin-left: -1.1em; 
 }
@@ -140,11 +139,11 @@ li {
 }
 
 .style6 {
-  font-size: 18px;
+  font-size: 22px;
   font-variant: small-caps;
   color: black;
   text-align: left;
-  margin-left: 0;
+  margin-right: 2.2%;
   font-weight: 600;
  
   margin-bottom: 0;
@@ -210,7 +209,7 @@ li {
   font-size: 18px;
   line-height: 24px;
   margin: 10px 0 10px;
-  padding: 0 10px;
+  padding: 0 10px 0 0;
 }
 
 .subsection {

@@ -13,13 +13,13 @@ permalink: /resume/
 
 <div class="section row">
 <div class="col"><div class="style1">Ryan<span style="font-weight:700"> Grajewski</span></div></div>
-  <div class="contact-info col" style="break-after: always; margin-left: 50%; margin-top: -2px; margin-bottom:0px;">
+  <div class="contact-info col" style="break-after: always; margin-left: 80%; margin-top: -90px; margin-bottom:0px;">
     <div class="downloadButton" style="margin-bottom: 3px;" id="pdf" href="#" style="margin-right: 0px;">Download PDF</div><br><br>
     <div style="margin-bottom: 3px;">703 . 939 . 7089</div>
     <div style="margin-bottom: 3px;"><a href="rmgrajewski@gmail.com" style="color:">rmgrajewski@gmail.com</a></div>
     <div style="margin-bottom: 3px;"><a href="http://ryangrajewski.com">https://ryangrajewski.com</a></div>
   </div>
-  <div class="section-text col" style="margin-top: -31px; margin-bottom: 0px;">
+  <div class="section-text col" style="margin-top: -35px; margin-bottom: 0px;">
     <div class="style4">
       mechanical engineer
     </div>
@@ -62,18 +62,19 @@ permalink: /resume/
       <div class="row">
         <div class="col">
           <div class="style6">United Parcel Service - Advanced Technology Group (ATG)</div><span style="font-style:oblique; color:#666666; font-size:13.5px; text-align:justify; ;margin-right:0;">ATG is UPS’ foremost advanced R&D team, responsible for identifying, validating, and rapidly deploying innovative solutions which address a range of opportunities that face UPS in material handling, transportation, and logistics. </span>
-          <div class="col-right light" style="float: right; position:absolute; top:31.5em; right:1.5%;">May 2022 - May 2023</div>
+          <div class="col-right light" style="float: right; position:absolute; top:36em; right:1.5%;">May 2022 - May 2023</div>
         </div>
       </div>
       <div class="row subsection">
         <div class="emph col" style="flmargin-top:1%; font-variant: small-caps;">r&d mechanical engineering intern</div>
       </div>
       <ul class="desc" style="margin-top:0">
-        <li style="font-size:14.5px;">Designed, prototyped, and tested a compact package handling technology capable of accepting a package, determining the package’s orientation, and manipulating/rotating it into any desired final orientation for further sorting and/or placement into subsequent package handling systems.</li>
-        <li style="font-size:14.5px; list-style-position:inside; list-style-type:circle;">Invention selected for patenting – designated as primary inventor. Provisional patent application filed 2/9/2022.</li>
-        <li style="font-size:14.5px;">Initiated a “10% Project” in collaboration with the Smart Package Smart Facility team to explore a novel use-case for a mobile sensor technology in automated sorting facilities aimed at improving package traceability while circumventing traditional sensor hardware costs and power requirements.</li>
-        <li style="font-size:14.5px; list-style-position:inside; list-style-type:circle;">Devised proof-of-concept hardware and experimentation setup, recorded data and articulated results, and presented findings to ATG team members</li>
-        <li style="font-size:14.5px;">ATG internal engineering consulting – supported other ATG initiatives with idea generation, mechanical design or CAD, and rapid fabrication services (often 1-2 day turnarounds) using shop equipment like the OMAX 55100 Abrasive Waterjet, CNC Mill, 3D Printer, Cold Saw, and welding station.</li>
+        <li style="font-size:14.5px; list-style-position:outside; list-style-type:disc;">Designed, prototyped, and tested a compact package handling technology capable of accepting a package, determining the package’s orientation, and manipulating/rotating it into any desired final orientation for further sorting and/or placement into subsequent package handling systems.</li>
+        <li style="font-size:14.5px; list-style-position:inside; list-style-type:circle; margin-left: 4%;">Invention selected for patenting – designated as primary inventor. Provisional patent application filed 2/9/2022.</li>
+        <li style="font-size:14.5px; list-style-position:outside; list-style-type:disc;">Initiated a “10% Project” in collaboration with the Smart Package Smart Facility team to explore a novel use-case for a mobile sensor technology in automated sorting facilities aimed at improving package traceability while circumventing traditional sensor hardware costs and power requirements.</li>
+        <li style="font-size:14.5px; list-style-position:inside; list-style-type:circle; margin-left:4%;">Devised proof-of-concept hardware and experimentation setup, recorded data and articulated results, and presented findings to ATG team members</li>
+        <li style="font-size:14.5px; list-style-position:outside; list-style-type:disc;">ATG internal engineering consulting – supported other ATG initiatives with idea generation, mechanical design or CAD, and rapid fabrication services (often 1-2 day turnarounds) using shop equipment like the OMAX 55100 Abrasive Waterjet, CNC Mill, 3D Printer, Cold Saw, and welding station.</li>
+      </ul>
     </div>
     <div class="section-text col-right">
       <div class="row">
@@ -86,12 +87,13 @@ permalink: /resume/
         <div class="emph col" style="margin-top:1%; font-variant: small-caps;">quality engineering and supply chain intern</div>
       </div>
       <ul class="desc" style="margin-top:0">
-        <li style="font-size:14.5px;">Earned AS9100:2016 (Rev D) Internal Auditor Certification and conducted internal audit interviews with employees from all facility operations in preparation for the company’s quality standard upgrade from ISO9001 to AS9100</li>
-        <li style="font-size:14.5px; list-style-position:inside; list-style-type:circle;">Documented audit evidence and worked with employees to develop resolution strategies for any out-of-code findings</li>
-        <li style="font-size:14.5px;">Performed Lean Six-Sigma/5S continuous improvement study of the electronics service lab. Identified major bottlenecks according to the DMAIC process and instituted workflow improvements that led to:</li>
-        <li style="font-size:14.5px; list-style-position:inside; list-style-type:circle;">25% reduction in tool misplacement by implementing a check-in/check-out system and by organizing workstations according to 5S</li>
-        <li style="font-size:14.5px; list-style-position:inside; list-style-type:circle;">7% increase in service efficiency by digitizing traveler documents and integrating them in an SQL database, enabling accurate tracking of KPIs</li>
-        <li style="font-size:14.5px;">Led document control effort for the quality management system; controlled Corrective Action Reports satisfying AS9100 internal improvement standards</li>
+        <li style="font-size:14.5px; list-style-position:outside; list-style-type:disc;">Earned AS9100:2016 (Rev D) Internal Auditor Certification and conducted internal audit interviews with employees from all facility operations in preparation for the company’s quality standard upgrade from ISO9001 to AS9100</li>
+        <li style="font-size:14.5px; list-style-position:inside; list-style-type:circle; margin-left:4%;">Documented audit evidence and worked with employees to develop resolution strategies for any out-of-code findings</li>
+        <li style="font-size:14.5px; list-style-position:outside; list-style-type:disc;">Performed Lean Six-Sigma/5S continuous improvement study of the electronics service lab. Identified major bottlenecks according to the DMAIC process and instituted workflow improvements that led to:</li>
+        <li style="font-size:14.5px; list-style-position:inside; list-style-type:circle; margin-left:4%;">25% reduction in tool misplacement by implementing a check-in/check-out system and by organizing workstations according to 5S</li>
+        <li style="font-size:14.5px; list-style-position:inside; list-style-type:circle; margin-left:4%;">7% increase in service efficiency by digitizing traveler documents and integrating them in an SQL database, enabling accurate tracking of KPIs</li>
+        <li style="font-size:14.5px; list-style-position:outside; list-style-type:disc;">Led document control effort for the quality management system; controlled Corrective Action Reports satisfying AS9100 internal improvement standards</li>
+      </ul>
     </div>
     <div class="section-text col-right">
       <div class="row">
@@ -104,9 +106,10 @@ permalink: /resume/
         <div class="emph col" style="margin-top:1%; font-variant: small-caps;">machine shop apprentice</div>
       </div>
       <ul class="desc" style="margin-top:0">
-        <li style="font-size:14.5px;">Aided setup and execution of manufacturing processes in numerous departments including powder coating, CNC Milling, metal cutting, sheet metal bending, and widget finishing and inspection</li>
-        <li style="font-size:14.5px;">Performed Lean Six-Sigma/5S continuous improvement study of the electronics service lab. Identified major bottlenecks according to the DMAIC process and instituted workflow improvements that led to:</li>
-        <li style="font-size:14.5px;">Trained in aluminum TIG welding, basics of 9-axis CNC Mill programming, hydraulic brake press operation, plasma cutting machine setup</li>
+        <li style="font-size:14.5px; list-style-position:outside; list-style-type:disc;">Aided setup and execution of manufacturing processes in numerous departments including powder coating, CNC Milling, metal cutting, sheet metal bending, and widget finishing and inspection</li>
+        <li style="font-size:14.5px; list-style-position:outside; list-style-type:disc;">Performed Lean Six-Sigma/5S continuous improvement study of the electronics service lab. Identified major bottlenecks according to the DMAIC process and instituted workflow improvements that led to:</li>
+        <li style="font-size:14.5px; list-style-position:outside; list-style-type:disc;">Trained in aluminum TIG welding, basics of 9-axis CNC Mill programming, hydraulic brake press operation, plasma cutting machine setup</li>
+      </ul>
     </div>
   </div>
   <div class="section row">
