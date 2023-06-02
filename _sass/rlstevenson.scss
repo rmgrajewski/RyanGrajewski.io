@@ -288,6 +288,16 @@ li {
   margin-right: -2px;
 }
 
+.link-doc {
+	color: #C34743;
+	display: inline-flex;
+}
+
+.link-doc:hover {
+	font-weight: bolder;
+	text-decoration: underline #000000;
+}
+
 .downloadButton:hover {
   background-color: #C34743;
   color: #fff;
