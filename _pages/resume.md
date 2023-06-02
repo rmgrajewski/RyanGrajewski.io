@@ -8,6 +8,10 @@ permalink: /resume/
   <title>Ryan Grajewski - Resume</title>
   <link rel="stylesheet" href="style.css">
   <link href="https://fonts.googleapis.com/css?family=Merriweather:300,400,700|Source+Sans+Pro:400,400i" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css?family=Merriweather:300,400,700|Source+Sans+Pro:400,400i" rel="stylesheet">
+    <script src="https://unpkg.com/ionicons@5.1.2/dist/ionicons.js"></script>
+  <link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
 </head>
 
 
@@ -28,6 +32,8 @@ permalink: /resume/
   </div>
 </div>
 
+
+
 <div class="section row">
   <div class="col">
     <div class="style2">Profile</div>
@@ -35,6 +41,8 @@ permalink: /resume/
   <div class="section-text col-right row" style="text-align: justify;"> I am a hands-on, big-picture critical thinker, and I have the people skills that enable me to thrive in the collaborative environments that drive innovation. I am motivated by the prospect of contributing to new, impactful technologies at the intersection of mechanical design, artificial intelligence, and robotics.
   </div>
 </div>
+
+
 <div class="section row">
   <div class="col">
     <div class="style2">Education</div>
@@ -61,7 +69,8 @@ permalink: /resume/
   </div>
 </div>
 
-<div class="section row">
+
+
   <div class="section row">
     <div class="col">
       <div class="style2">Experience</div>
@@ -71,7 +80,6 @@ permalink: /resume/
         <div class="col">
         <div class="style6">United Parcel Service - Advanced Technology Group (ATG) <span style="font-size:15px; font-variant:small-caps; color:#444;">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;May 2022 - May 2023</span></div>
           <span style="font-style:oblique; color:#666666; font-size:13.5px; text-align:justify; ;margin-right:0;">ATG is UPS’ foremost advanced R&D team, responsible for identifying, validating, and rapidly deploying innovative solutions which address a range of opportunities that face UPS in material handling, transportation, and logistics. </span>
-         
         </div>
       </div>
       <div class="row subsection">
@@ -88,7 +96,6 @@ permalink: /resume/
       <div class="row">
         <div class="col">
           <div class="style6">Safran Data Systems Inc.<span style="font-size:15px; font-variant:small-caps; color:#444;">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;May 2021 - Aug 2021</span></div><span style="font-style:oblique; color:#666666; font-size:13.5px; text-align:justify; ;margin-right:0;">SDS inc. is a subsidiary of French-owned Safran Group, specializing in the design and manufacture of equipment and antennas for on-board and ground telemetry, embedded data treatments, data acquisition, data recording, satellite control and remote sensing in the aerospace industry</span>
-          
         </div>
       </div>
       <div class="row subsection">
@@ -106,7 +113,6 @@ permalink: /resume/
       <div class="row">
         <div class="col">
           <div class="style6">Pro-Type Industries<span style="font-size:15px; font-variant:small-caps; color:#444;">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;May 2019 - Aug 2019</span></div><span style="font-style:oblique; color:#666666; font-size:13.5px; text-align:justify; ;margin-right:0;">Based in Sterling, VA, Pro-Type Industries is a precision machine shop which specializes in sheet metal fabrication, CNC Machining, and prototyping for the Aerospace, Military, and Technology industries.</span>
-         
         </div>
       </div>
       <div class="row subsection">
@@ -137,7 +143,6 @@ permalink: /resume/
         <li><b>Cutting:</b> Waterjet, Laser Cutting/Engraving, Cold Saw, Woodworking tools</li>
         <li><b>Machining:</b> CNC Mill, Lathe</li>
         <li><b>Forming:</b> 3D Printing, Sheet Metal Bending (hydraulic brake and handbrake), Pipe Bending, TIG Welding (novice)</li>
-
       </ul>
       <ul class="skills" style="width=31%; color: #444;">
         <div class="style3">
@@ -157,8 +162,7 @@ permalink: /resume/
       </div>
     </div>
   </div>
-
-
-
-
 </div>
+
+
+
