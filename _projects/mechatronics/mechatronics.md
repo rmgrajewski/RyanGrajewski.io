@@ -10,6 +10,7 @@ cover-img: MECH1.png
 images:
 
 ---
+More on this project coming soon.
 
 ## Project Overview
 

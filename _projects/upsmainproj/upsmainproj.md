@@ -22,6 +22,6 @@ The system I developed has 5 total axes of motion, each driven individually by s
 ## Process 
 
 I had the opportunity to develop this project for three full internship terms, having been given the rare opportunity to extend my original contract for Summer 2022 up through May 2023. At the beginning of each semester, I defined realistic goals for the project that I needed to achieve. These were:<br>
-    <li><b>Summer 2022</b>: Define functional requirements & explore design space, conceptualize in CAD the full system and its motions, begin prototyping the physical components (the first 3 motion axes)</li>
-    <li><b>Fall 2022</b>: Develop (4th motion axis) physical components, develop motor controller electronics module, and program rudimentary test sequences</li>
-    <li><b>Spring 2023</b>: Develop (5th motion axis) physical components, fully develop controller code to implement the logic algorithm, validate functionality with testing</li>
+    -<b>Summer 2022</b>: Define functional requirements & explore design space, conceptualize in CAD the full system and its motions, begin prototyping the physical components (the first 3 motion axes)
+    -<b>Fall 2022</b>: Develop (4th motion axis) physical components, develop motor controller electronics module, and program rudimentary test sequences
+    -<b>Spring 2023</b>: Develop (5th motion axis) physical components, fully develop controller code to implement the logic algorithm, validate functionality with testing
