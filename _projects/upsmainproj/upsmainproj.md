@@ -8,13 +8,20 @@ project-type: engineering
 project-priority: 11
 cover-img: upsmain1.jpg
 images:
- - image_path: /projects/upsmainproj/upsmain1.png
+ - image_path: /projects/upsmainproj/upsmain1.jpg
 ---
-My main project for UPS's Advanced Technology Group has been the most exciting and enriching problem solving experience I have had the opportunity to be apart of. Because this project is ongoing and comprises critical IP for one of UPS's newest package distribution technologies, I am only allowed to share limited details of my work.
+<span style="font-variant:italics">Note: because this project is ongoing and comprises critical IP for one of UPS's newest package distribution technologies, I am only allowed to share limited details of my work.</span>
 
-At the start of my internship in May 2022, I was presented with the very open ended engineering challenge of devising and prototyping a system that would integrate with a larger package handling solution already in development. The problem that was presented to me was to build a system that could accept packages from the output of one system, scan/identify critical information on the package, manipulate the package's orientation, and then dispense them into the opening of the next system with high repeatability. My responsibility was to take these "it should do X" statements and fully articulate the scope of the system, define the functional requirements of the system, and build a working prototype to demonstrate the feasibility of the system within the physical limits of the project. 
+## Overview
+For my main project at UPS, I was presented the very open ended engineering challenge of conceptualizing and prototyping a system that would integrate with a larger package handilng solution that was already in development. The objective for the project was to build a system that could accept packages from the output of one system, scan/identify critical information on the package, manipulate the package's orientation, and then dispense them into the opening of the next system with high repeatability.
 
-I have had the incredible opportunity of extending my initial term as intern and have been working part time in this role for the past Fall 2022 semester and now Spring 2023. As of February 9, 2023, a provisional patent application has been filed for the system I developed as my main project. I am currently working with UPS to understand what details I can and cannot share.
+My responsibility was to take these "it should do X" statements and fully articulate the scope of the system, conceptualize a system to satisfy the functional requirements, and build a working prototype to demonstrate the feasibility of the system within the physical limits of the project.
 
+The system I developed has 5 total axes of motion, each driven individually by stepper motors via a series of belts and pulleys or lead screws. The system is capable of accepting a package in any random orientation and, after a sequence of rotations, dispensing the package in a uniform desired orientation. 
 
-More coming Soon.
+## Process 
+
+I had the opportunity to develop this project for three full internship terms, having been given the rare opportunity to extend my original contract for Summer 2022 up through May 2023. At the beginning of each semester, I defined realistic goals for the project that I needed to achieve. These were:
+    - <h3>Summer 2022</h3>: Define functional requirements & explore design space, conceptualize in CAD the full system and its motions, begin prototyping the physical components (the first 3 motion axes)
+    - <h3>Fall 2022</h3>: Develop (4th motion axis) physical components, develop motor controller electronics module, and program rudimentary test sequences
+    - <h3>Spring 2023</h3>: Develop (5th motion axis) physical components, fully develop controller code to implement the logic algorithm, validate functionality with testing
