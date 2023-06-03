@@ -10,7 +10,7 @@ cover-img: upsmain1.jpg
 images:
  - image_path: /projects/upsmainproj/upsmain1.jpg
 ---
-<span style="font-variant:italics">Note: because this project is ongoing and comprises critical IP for one of UPS's newest package distribution technologies, I am only allowed to share limited details of my work.</span>
+<span style="font-style:italics"><b>Note</b>: because this project is ongoing and comprises critical IP for one of UPS's newest package distribution technologies, I am only allowed to share limited details of my work.</span>
 
 ## Overview
 For my main project at UPS, I was presented the very open ended engineering challenge of conceptualizing and prototyping a system that would integrate with a larger package handilng solution that was already in development. The objective for the project was to build a system that could accept packages from the output of one system, scan/identify critical information on the package, manipulate the package's orientation, and then dispense them into the opening of the next system with high repeatability.
