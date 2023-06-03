@@ -25,7 +25,7 @@ permalink: /resume/
     <div class="style1">Ryan<span style="font-weight:700"> Grajewski</span></div>
   </div>
   <div class="contact-info col" style="break-after: always; margin-left: 80%; margin-top: -80px; margin-bottom:0px;">
-    <div class="downloadButton" style="margin-bottom: 3px;" id="pdf" style="margin-right: 0px;"><a href="/assets/RyanGrajewskiResumePDF.pdf" style="color:black;" download>Download As PDF</a></div><br><br>
+    <div class="downloadButton" style="margin-bottom: 3px;" id="pdf" style="margin-right: 0px;"><a href="/assets/WEBSITE_RESUME.pdf" style="color:black;" download>Download As PDF</a></div><br><br>
     <div style="margin-bottom: 3px;">703 . 939 . 7089</div>
     <div style="margin-bottom: 3px;"><a href="rmgrajewski@gmail.com" style="color:">rmgrajewski@gmail.com</a></div>
     <div style="margin-bottom: 3px;"><a href="http://ryangrajewski.com">https://ryangrajewski.com</a></div>
