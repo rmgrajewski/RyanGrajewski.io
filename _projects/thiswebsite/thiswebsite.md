@@ -6,7 +6,7 @@ subtitle:
 rollover-text:
 project-type: engineering
 project-priority: 12
-cover-img: 
+cover-img: thissite1.jpg
 images:
  - image_path: /projects/thiswebsite/thissite1.jpg
 ---
