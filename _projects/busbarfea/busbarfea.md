@@ -32,19 +32,19 @@ We compared four different busbar cross-sectional geometries: Flat (rectangle), 
 
 In  general, there were fourtypes of loads applied in each simulation: the distributed gravitational weight of the busbar, a current running through the busbar, radiation heat loss and convection heat loss. This is in addition to setting up the installation temperature and operational ambient temperature. 
 
-At installation, conductors were assumed to have uniform internal temperaturesof 32°F, assuming installation on a chilly day. At operation, the ambient temperature was assumed to be 120°F. For periods of high electricity demand, a current of 2000 Amps was chosen to run through the bars. The amount of current flowing through a busbar was modeled as a voltage change across the busbar. Voltage drop across the busbar was calculated using the current and resistance values and Ohms Law.
+At installation, conductors were assumed to have uniform internal temperatures of 32°F, assuming installation on a chilly day. At operation, the ambient temperature was assumed to be 120°F. For periods of high electricity demand, a current of 2000 Amps was chosen to run through the bars. The amount of current flowing through a busbar was modeled as a voltage change across the busbar. Voltage drop across the busbar was calculated using the current and resistance values and Ohms Law.
 
 ## Results
 
-The problem contains electric and thermal loads on the busbar, which cause internal stress in rigidly mounted busbars. To  consider allloads and boundary conditions, a Thermal-Electric analysis is paired with a Static Structural analysis in Ansys. Element SOLID187 was chosen as the element type.
+The problem contains electric and thermal loads on the busbar, which cause internal stress in rigidly mounted busbars. To  consider all loads and boundary conditions, a Thermal-Electric analysis is paired with a Static Structural analysis in Ansys. Element SOLID187 was chosen as the element type.
 
 Of the four busbar geometries simulated, the flat busbar was the only conductor geometry that did not fall within Southern Company's Design Standards. Southern Company’s design criteria states that busbars should be designed with  the  expectation  that, in a worst-case scenario,the busbar itself be roughly 212°F hotter than the surrounding ambient temperature, and this was not the case for the flat busbar which reached a maximum 277.79°F. 
 
-Further, we also found that the busbars with the greatest surface area were able  to give off more heat via  convection to  the surrounding environment. Joule  heating had the greatest influence on maximum temperature near areas of through-hole  features, demonstrating the relationshipbetweencross-sectional area and electrical resistivity.
+Further, we also found that the busbars with the greatest surface area were able  to give off more heat via convection to the surrounding environment. Joule heating had the greatest influence on maximum temperature near areas of through-hole features, demonstrating the relationship between cross-sectional area and electrical resistivity.
 
 ## Documents
 
-* [Final Report](/projects/busbarfea/FEAreport.pdf): Final write-up detailing the entire semester's efforts
+* ["Final Report](/projects/busbarfea/FEAreport.pdf): Final write-up detailing the entire semester's efforts
 * [Final Presentation Slides](/projects/busbarfea/FEApres.pdf): Slides presented to the class demonstrating our algorithm
 
 
