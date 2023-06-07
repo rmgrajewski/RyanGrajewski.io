@@ -854,9 +854,9 @@ p.attr {
 		color: #444;
 	}
 }
-.scheme-gulfracing .sidebar a {
 	color: #444;
 }
+
 .scheme-gulfracing .content a {
 	color: #E75E16;
 }
@@ -1076,11 +1076,13 @@ p.attr {
   &:hover {
 	color: #C34743;
     background-color:#d1cfcf;
+	border-radius: 3px 3px 0 0;
 	  
 	  &:after {
 		right: 0;
 		left: 0;
 		height: 100%;
+		border-radius: 3px 3px 0 0;
 	  }
 	}
   
@@ -1115,12 +1117,14 @@ p.attr {
 	
 	&:hover {
 	  color: white;
-    font-weight:bold;
+	  font-weight:bold;
+	  border-radius: 3px;
 	  
 	  &:after {
 		right: 0;
 		left: 0;
 		height: 100%;
+		border-radius: 3px;
 	  }
 	}
   }
