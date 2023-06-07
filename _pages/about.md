@@ -7,15 +7,15 @@ My name is Ryan Grajewski.
 
 I'm a well-rounded mechanical engineer with a passion for understanding and pushing the physical limits of technology at the intersection of advanced robotics, manufacturing, and product development. My goal as a young professional is to hone my technical expertise, and establish myself as a leader in the high-tech industry where I may bridge the gap between my highly technical peers and the business oriented stakeholders invested in my projects.  
 
-I graduated from the Georgia Institute of Technology with a B.S. in mechanical engineering in 2022, earning the highest honors academic distinction. In May 2023, I earned my masters degree in mechanical engineering also at Georgia Tech through the rigorous 5-year joint BS/MS program. My graduate scholarship has focused specifically on the combination of robotics, automation, and control systems.
+I recently earned my M.S. in mechanical engineering from Georgia Tech in May 2023, where my graduate scholarship focused specifically on the combination of robotics, automation, and control systems. I completed my pogram of study in one year as part of the rigorous 5-year joint BS/MS program, having doubled-up on graduate coursework during the final year of my undergrad. A year prior, in May 2022, I received my B.S. in mechanical engineering at Georgia Tech, earning the Highest Honors academic distinction.
 
-I have experience from a number of roles in the design, manufacturing, and R&D industires, and most recently have worked for UPS's Advanced Technology Group in their Rapid Prototyping Lab. I have other experience in quality engineering in the aerospace industry from my time with Safran Data Systems inc, and am very comfortable with machine shop equipment after working as a shop apprentice for Pro-Type Industries inc. 
+While completing my graduate coursework, I worked as an R&D Mechanical Engineer for UPS in their Advanced Technology Group's Rapid Prototyping Lab. I have other experience from a number of roles in the design, manufacturing, and R&D spaces through summer internships with Safran Data Systems Inc, a leading aerospace company focused on in-flight data acquisition and telemetry equipment, as well as Pro-Type Industries, a precision machine shop specialized in sheet-metal fabrication and prototyping.
 
 This website is my opportunity to display some of the other skills I've developed through my project work.
 
-<h3>Contact</h3>
+<h3 style="font-weight:bold;">Contact</h3>
 I can be reached at: 
 <br>
-    - email: rmgrajewski@gmail.com
+&emsp;<b>- email:</b> rmgrajewski@gmail.com
     <br>
-    - mobile: 703-939-7089
+&emsp;<b>- mobile:</b> 703-939-7089

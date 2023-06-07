@@ -26,7 +26,7 @@ permalink: /resume/
     <div class="style1">Ryan<span style="font-weight:700"> Grajewski</span></div>
   </div>
   <div class="contact-info col" style="break-after: always; margin-left: 80%; margin-top: -80px; margin-bottom:0px;">
-    <div class="downloadButton" style="margin-bottom: 3px;" id="pdf" style="margin-right: 0px;"><a href="/assets/RyanGrajewski_Resume.pdf" style="color:black;" download>Download As PDF</a></div><br><br>
+    <div class="downloadButton" style="margin-bottom: 3px;" id="pdf" style="margin-right: 0px;"><a href="/assets/RyanGrajewski_Resume.pdf" style="color:white; font-weight:bold;" download>Download As PDF</a></div><br><br>
     <div style="margin-bottom: 3px;">703 . 939 . 7089</div>
     <div style="margin-bottom: 3px;"><a href="rmgrajewski@gmail.com" style="color:">rmgrajewski@gmail.com</a></div>
     <div style="margin-bottom: 3px;"><a href="http://ryangrajewski.com">https://ryangrajewski.com</a></div>
@@ -134,7 +134,7 @@ permalink: /resume/
               <div class="answer">
                 <div class="companyProfile">
                   <div class="light" style="font-size:15px;">may 2019 - aug 2019</div>
-                  <a href="http://www.pro-type.com/" style="color:#C34743;">Pro-Type Industries </a> is a precision machine shop based in Sterling VA,which specializes in sheet metal fabrication, CNC Machining, and prototyping for the Aerospace, Military, and Technology industries.
+                  <a href="http://www.pro-type.com/" style="color:#C34743;">Pro-Type Industries </a> is a precision machine shop based in Sterling VA, which specializes in sheet metal fabrication, CNC Machining, and prototyping for the Aerospace, Military, and Technology industries.
                 </div>
                 <li class="jobBullet1">Aided setup and execution of manufacturing processes in numerous departments including powder coating, CNC Milling, metal cutting, sheet metal bending, and widget finishing and inspection</li>
                 <li class="jobBullet1">Produced CAD drawing packages and documented fabrication instructions for small-scale sheet metal components used in the Aerospace industry</li>
