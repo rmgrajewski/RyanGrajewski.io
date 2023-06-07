@@ -1,24 +1,3 @@
-<head>
-	<script>
-		function setActiveLink() {
-		var currentPage = window.location.pathname;
-		var links = document.querySelectorAll('.sidebar-menus li a');
-		
-		links.forEach(function(link) {
-			var linkPath = link.getAttribute('href');
-		
-			if (currentPage === linkPath) {
-			link.classList.add('active');
-			}
-		});
-		}
-		
-		// Call the function after the DOM has loaded
-		document.addEventListener('DOMContentLoaded', setActiveLink);
-	</script>
-</head>
-
-
 <div class="sidebar-content">
 
 	<div class="sidebar-img" align="center">
@@ -32,12 +11,42 @@
 	<div class="sidebar-freetext">
 		<p>{{ site.freetext }}</p>
 	</div>
-	{% endif %}
+	{% endif %}	
+
+	<div class="topmenu">
+		<ul>
+			<li><a href="Default.aspx">Home</a></li>
+			<li><a href="NewsLetter.aspx">Newsletter</a></li>
+			<li><a href="#">Forms</a></li>
+			<li><a href="#">Mail</a></li>
+			<li><a href="#">Service</a></li>
+			<li style="border:none;"><a href="#">HSE</a></li>
+			<li><a href="#">MainMenu2</a>
+			   <ul>
+				  <li>submenu1</li>
+				  <li>submenu2</li>
+				  <li>submenu3</li>
+			  </ul>
+		   </li>
+		</ul>
+	</div>
 
 	<ul class="sidebar-menus">
-		{% for item in site.data.menu %}
-			<li> <a href="{{ item.url }}">{{ item.text }}</a></li>
-		{% endfor %}
+		<li>
+			<form action = "https://www.ryangrajewski.com/">
+				<button class="button-13" role="button">Projects</button>
+			</form>
+		</li>
+		<li>
+			<form action = "https://www.ryangrajewski.com/resume/">
+				<button class="button-13" role="button">Resume</button>
+			</form>
+		</li>
+		<li>
+			<form action = "https://www.ryangrajewski.com/about/">
+				<button class="button-13" role="button">About</button>
+			</form>
+		</li>
 	</ul>
 	
 	<br>

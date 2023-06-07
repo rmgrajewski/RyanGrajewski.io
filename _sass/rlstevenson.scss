@@ -1021,3 +1021,9 @@ p.attr {
 	box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
 	outline: 0;
   }
+
+  .topmenu ul li.active a, .topmenu ul li a:hover {
+    text-decoration:none;
+    color:#fff;
+    background:url(../images/menu_a.jpg) no-repeat center top;
+}
