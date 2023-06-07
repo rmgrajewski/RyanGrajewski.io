@@ -2,7 +2,7 @@
 layout: project
 title: Finite Element Analysis of Substation Busbar Geometries
 permalink: /projects/busbarfea/
-subtitle:
+subtitle: project
 rollover-text: 
 project-type: engineering
 project-priority: 6

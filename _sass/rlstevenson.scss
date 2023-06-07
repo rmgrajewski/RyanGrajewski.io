@@ -1038,6 +1038,56 @@ p.attr {
 	margin-bottom: 12px;
   }
   
+.menu-button-active {
+	height: 2em;
+	display: flex;
+	align-items: center;
+	margin-bottom: 12px;
+  }
+  
+.menu-button-active a{
+  display: flex;
+	margin: auto;
+	padding: .5rem 2rem .75rem 2rem;
+	font-family: sans-serif;
+	font-size: 1em;
+  font-weight:bold;
+	text-decoration: none;
+	color: #C34743;
+	position: relative;
+  transition: all .3s cubic-bezier(.2, 0, 0, 1);
+	z-index: 1;
+  
+  &:after {
+	  content: '';
+	  display: block;
+	  height: 0px;
+	  position: absolute;
+	  bottom: 0;
+	  right: .6rem;
+	  left: .6rem;
+    border-bottom-color: #C34743;
+    border-bottom-style: solid;
+    border-bottom-width: 4px;
+	  background-color: #d1cfcf;
+	  transition: all .3s cubic-bezier(.2, 0, 0, 1);
+	  transform-origin: bottom center;
+	  z-index: -1;
+	}
+  
+  &:hover {
+	  color: #C34743;
+    background-color:#d1cfcf;
+	  
+	  &:after {
+		right: 0;
+		left: 0;
+		height: 100%;
+	  }
+	}
+  
+}
+
   .menu-button a {
 	display: flex;
 	margin: auto;
@@ -1050,6 +1100,7 @@ p.attr {
 	transition: all .3s cubic-bezier(.2, 0, 0, 1);
 	z-index: 1;
 	
+	
 	&:after {
 	  content: '';
 	  display: block;
@@ -1058,7 +1109,7 @@ p.attr {
 	  bottom: 0;
 	  right: 1.25rem;
 	  left: 1.25rem;
-	  background-color: #666666;
+	  background-color: #d1cfcf;
 	  transition: all .3s cubic-bezier(.2, 0, 0, 1);
 	  transform-origin: bottom center;
 	  z-index: -1;
@@ -1066,6 +1117,7 @@ p.attr {
 	
 	&:hover {
 	  color: white;
+    font-weight:bold;
 	  
 	  &:after {
 		right: 0;
