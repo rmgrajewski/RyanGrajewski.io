@@ -2,7 +2,7 @@
 layout: project
 title: UPS Rapid Prototyping
 permalink: /projects/upsfab
-subtitle:
+subtitle: project
 rollover-text:
 project-type: engineering
 project-priority: 10

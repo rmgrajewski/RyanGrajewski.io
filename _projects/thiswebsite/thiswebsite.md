@@ -2,7 +2,7 @@
 layout: project
 title: This Portfolio Website!
 permalink: /projects/thiswebsite
-subtitle:
+subtitle: project
 rollover-text:
 project-type: engineering
 project-priority: 12

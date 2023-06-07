@@ -2,7 +2,7 @@
 layout: project
 title: Campus Drone Delivery Network
 permalink: /projects/dronedelivery
-subtitle:
+subtitle: project
 rollover-text:
 project-type: engineering
 project-priority: 3

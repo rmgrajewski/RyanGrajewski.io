@@ -2,7 +2,7 @@
 layout: project
 title: Senior Capstone Design Project
 permalink: /projects/capstone
-subtitle: 
+subtitle: project
 rollover-text:
 project-type: engineering
 project-priority: 4
@@ -22,7 +22,7 @@ My capstone senior design project was sponsored by Gypsum Management Supply, INC
 
 ## Problem Discovery and Ideation
 
-Our team first visited several ongoing construction sites to understand how drywall carts are typically used. The greatest insightes we gathered were from construction workers themselves -- their concerns lied more with efficiency and ease of use rather than safety itself. The challenge then became how to improve safety while maintaining the current design's functinality.It became clear that a retrofit mechanism that could be installed on existing carts was the correct direction to take the project.
+Our team first visited several ongoing construction sites to understand how drywall carts are typically used. The greatest insightes we gathered were from construction workers themselves -- their concerns lied more with efficiency and ease of use rather than safety itself. The challenge then became how to improve safety while maintaining the current design's functinality. It became clear that a retrofit mechanism that could be installed on existing carts was the correct direction to take the project.
 
 We went through several rounds of brainstorming - my personal favorite phase of the project - and generated a House of Quality (HOQ), morphological chart with several design alternatives, and simple "napkin" calculations to validate our initial designs. There were two aspects of the redesign that we chose to pursue. The first was a fail-safe mechanism that would trigger when the drywall on the cart began to tip, extending a spring-powered "kickstand" that would catch the weight of the drywall and prevent it from fully flipping over. The second was a more proactive approach that attempted to increase control over the cart while pushing it by introducing a hand-crank workers could use to direct the wheels of the cart as they go around tight corners. 
 

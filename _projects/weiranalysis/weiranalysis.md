@@ -2,7 +2,7 @@
 layout: project 
 title: Fluid Mechanics Anlysis of Different Weir Geometry 
 permalink: /projects/weiranalysis
-subtitle: 
+subtitle: project
 rollover-text:
 project-type: engineering
 project-priority: 1

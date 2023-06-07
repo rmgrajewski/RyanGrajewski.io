@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Resume
+subtitle: resume
 permalink: /resume/
 ---
 <head>

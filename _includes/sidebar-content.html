@@ -13,8 +13,7 @@
 	</div>
 	{% endif %}	
 
-	
-	{% if page.subtitle %}
+
 	{% if page.subtitle == 'project'%}
 	<div class="menu-button-active">
 		<a href="https://www.ryangrajewski.com/">Projects</a>
@@ -26,7 +25,7 @@
 		<a href="https://www.ryangrajewski.com/about/">About</a>
 	</div>
 	{% endif %}
-	{% if page.subtitle == 'resume'%}
+	{% if page.title == 'Resume'%}
 	<div class="menu-button">
 		<a href="https://www.ryangrajewski.com/">Projects</a>
 	  </div>
@@ -37,7 +36,7 @@
 		<a href="https://www.ryangrajewski.com/about/">About</a>
 	</div>
 	{% endif %}
-	{% if page.subtitle == 'about'%}
+	{% if page.title == 'About'%}
 	<div class="menu-button">
 		<a href="https://www.ryangrajewski.com/">Projects</a>
 	  </div>
@@ -48,8 +47,18 @@
 		<a href="https://www.ryangrajewski.com/about/">About</a>
 	</div>
 	{% endif %}
+	{% if page.subtitle == ''}
+	<div class="menu-button">
+		<a href="https://www.ryangrajewski.com/">Projects</a>
+	  </div>
+	<div class="menu-button">
+		<a href="https://www.ryangrajewski.com/resume/">Resume</a>
+	</div>
+	<div class="menu-button">
+		<a href="https://www.ryangrajewski.com/about/">About</a>
+	</div>
 	{% endif %}
-	
+
 	<br>
 	
 	<ul class="list-inline list-social-icons mb-0">

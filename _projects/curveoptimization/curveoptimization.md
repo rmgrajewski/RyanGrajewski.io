@@ -2,7 +2,7 @@
 layout: project
 title: Repulsive Curve Optimization for Modeling Muscle Tissue
 permalink: /projects/curveoptimization
-subtitle:
+subtitle: project
 rollover-text:
 project-type: engineering
 project-priority: 5

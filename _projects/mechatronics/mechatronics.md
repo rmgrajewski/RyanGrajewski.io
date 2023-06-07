@@ -2,7 +2,7 @@
 layout: project  
 title: Automated Smart Vent for Energy Efficient Room Heating
 permalink: /projects/mechatronics
-subtitle: 
+subtitle: project
 rollover-text:
 project-type: engineering
 project-priority: 8

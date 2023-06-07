@@ -2,7 +2,7 @@
 layout: project
 title: Optical Character Recognition for text-to-LaTex Conversion
 permalink: /projects/OCR
-subtitle:
+subtitle: project
 rollover-text:
 project-type: engineering
 project-priority: 9

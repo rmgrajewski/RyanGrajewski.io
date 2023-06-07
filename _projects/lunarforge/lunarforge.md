@@ -2,7 +2,7 @@
 layout: project
 title: NASA Big Idea Challenge - Lunar Forge
 permalink: /projects/lunarforge
-subtitle:
+subtitle: project
 rollover-text:
 project-type: engineering
 project-priority: 7

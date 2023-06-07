@@ -2,7 +2,7 @@
 layout: project
 title: Moped & Motorcycle Restoration Business
 permalink: /projects/mopedrestoration
-subtitle: 
+subtitle: project
 rollover-text:
 project-type: engineering
 project-priority: 2

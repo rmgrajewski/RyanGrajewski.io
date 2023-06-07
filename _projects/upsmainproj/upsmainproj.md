@@ -2,7 +2,7 @@
 layout: project
 title: UPS - R&D Engineering Intern Main Project
 permalink: /projects/upsmainproj
-subtitle:
+subtitle: project
 rollover-text:
 project-type: engineering
 project-priority: 11
