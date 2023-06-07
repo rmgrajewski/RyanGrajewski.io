@@ -1,3 +1,24 @@
+<head>
+	<script>
+		function setActiveLink() {
+		var currentPage = window.location.pathname;
+		var links = document.querySelectorAll('.sidebar-menus li a');
+		
+		links.forEach(function(link) {
+			var linkPath = link.getAttribute('href');
+		
+			if (currentPage === linkPath) {
+			link.classList.add('active');
+			}
+		});
+		}
+		
+		// Call the function after the DOM has loaded
+		document.addEventListener('DOMContentLoaded', setActiveLink);
+	</script>
+</head>
+
+
 <div class="sidebar-content">
 
 	<div class="sidebar-img" align="center">
@@ -14,21 +35,9 @@
 	{% endif %}
 
 	<ul class="sidebar-menus">
-		<li>
-			<form action = "https://www.ryangrajewski.com/">
-				<button class="button-13" role="button">Projects</button>
-			</form>
-		</li>
-		<li>
-			<form action = "https://www.ryangrajewski.com/resume/">
-				<button class="button-13" role="button">Resume</button>
-			</form>
-		</li>
-		<li>
-			<form action = "https://www.ryangrajewski.com/about/">
-				<button class="button-13" role="button">About</button>
-			</form>
-		</li>
+		{% for item in site.data.menu %}
+			<li> <a href="{{ item.url }}">{{ item.text }}</a></li>
+		{% endfor %}
 	</ul>
 	
 	<br>
