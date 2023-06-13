@@ -64,7 +64,7 @@ I have received permission from UPS to display images of certain mechanisms I de
 
 <span style="font-style:oblique; font-weight:415;">Defining the Engineering Problem</span>
 
-1.  Translated the project's general guidelines into specific, targetable functional requirements which would be to guide my design decision making. Researched current industry practices and viable off-the-shelf solutions.
+1.  Translated the project's general guidelines into specific, targetable functional requirements which guided my design decision making. Researched current industry practices and viable off-the-shelf solutions.
 2.  Developed a mathematical formulation of the package orientation problem. Devised a logic algorithm that would numerically solve the orientation problem -- in essence, this became a set of rules (based on initial orientation) that defined the sequence of rotations that should be applied to a package in order to achieve a final desired orientation.
 
 <span style="font-style:oblique; font-weight:415;">Exploring the Design Space</span>
