@@ -19,12 +19,6 @@ images:
      - caption: "#4 Round Belt Pulley Transmission"
  - image_path: /projects/upsmainproj/upsmain6.jpg
      - caption: "#5 Stepper Controller Module and Power Supply"
- - image_path: /projects/upsmainproj/upsmain7.mp4
-     - caption: "#6 Example of Experiments Performed During Exploration"
- - image_path: /projects/upsmainproj/upsmain8.mp4
-     - caption: "#7 Example of Experiments Performed During Exploration"
- - image_path: /projects/upsmainproj/upsmain9.mp4
-     - caption: "#8 Example of Experiments Performed During Exploration"
 ---
 <span style="font-style:oblique"><b>Note</b>: because this project is still ongoing and comprises critical IP for one of UPS's newest package handling technologies, I am only allowed to share limited details of my work.</span>
 
@@ -72,9 +66,12 @@ I have received permission from UPS to display images of certain mechanisms I de
 1.  Translated the project's general guidelines into specific, targetable functional requirements which would be to guide my design decision making. Researched current industry practices and viable off-the-shelf solutions.
 2.  Developed a mathematical formulation of the package orientation problem. Devised a logic algorithm that would numerically solve the orientation problem -- in essence, this became a set of rules (based on initial orientation) that defined the sequence of rotations that should be applied to a package in order to achieve a final desired orientation.
 
-<span style="font-style:oblique; font-weight:415;">Exploring the Design Space - See Videos #7,8,9 in Carousel</span>
+<span style="font-style:oblique; font-weight:415;">Exploring the Design Space</span>
 
-3. Conceptualized numerous alternative mechanism designs that could achieve the necessary package manipulations while also satisfying our functional requirements. Started with hand sketches and moved to CAD.
+3. Conceptualized numerous alternative mechanism designs that could achieve the necessary package manipulations while also satisfying our functional requirements. Below are a few videos I've received permission to display that demonstrate part of the exploration process.
+* [Experiment 1](/projects/upsmainproj/upsmain7.mp4)
+* [Experiment 2](/projects/upsmainproj/upsmain8.mp4)
+* [Experiment 3](/projects/upsmainproj/upsmain9.mp4)
 4. Rapidly prototyped scale versions of those mechanisms, or if too complex, devised experiments to evaluate their core mechanical principles. Systematically eliminated certain design strategies and began formulating a cohesive system architecture.
 5. Systematically eliminated certain design strategies and began formulating a cohesive system architecture. 
 6. Iteratively improved the design of the most promising mechanism concepts.
