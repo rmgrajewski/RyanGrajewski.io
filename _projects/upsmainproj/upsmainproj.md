@@ -10,15 +10,15 @@ cover-img: upsmain1.jpg
 images:
  - image_path: /projects/upsmainproj/upsmain1.jpg
  - image_path: /projects/upsmainproj/upsmain2.jpg
-    - caption: "#1 Belt + Pulley Transmission"
+    caption: "#1 Belt + Pulley Transmission"
  - image_path: /projects/upsmainproj/upsmain3.jpg
-     - caption: "#2 Plate Driven by Lead Screw"
+    caption: "#2 Plate Driven by Lead Screw"
  - image_path: /projects/upsmainproj/upsmain4.jpg
-     - caption: "#3 Lead Screw Plate's Spring Steel Brackets"
+    caption: "#3 Lead Screw Plate's Spring Steel Brackets"
  - image_path: /projects/upsmainproj/upsmain5.jpg
-     - caption: "#4 Round Belt Pulley Transmission"
+    caption: "#4 Round Belt Pulley Transmission"
  - image_path: /projects/upsmainproj/upsmain6.jpg
-     - caption: "#5 Stepper Controller Module and Power Supply"
+    caption: "#5 Stepper Controller Module and Power Supply"
 ---
 <span style="font-style:oblique"><b>Note</b>: because this project is still ongoing and comprises critical IP for one of UPS's newest package handling technologies, I am only allowed to share limited details of my work.</span>
 
