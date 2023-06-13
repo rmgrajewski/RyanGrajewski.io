@@ -5,8 +5,8 @@ permalink: /projects/upsfab
 subtitle: project
 rollover-text:
 project-type: engineering
-project-priority: 10
-cover-img: upsfab1.jpg
+project-priority: 
+cover-img:
 images:
  - image_path: /projects/upsfab/upsfab1.jpg
 

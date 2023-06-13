@@ -5,8 +5,8 @@ permalink: /projects/upsmainproj
 subtitle: project
 rollover-text:
 project-type: engineering
-project-priority: 11
-cover-img: upsmain1.jpg
+project-priority: 
+cover-img: 
 images:
  - image_path: /projects/upsmainproj/upsmain1.jpg
    caption: ""

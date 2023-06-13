@@ -15,7 +15,7 @@ images:
 ## Overview
 For my main project at UPS, I was presented the very open ended engineering challenge of conceptualizing and prototyping a system that would integrate with a larger package handilng solution already in development. The objective for the project was to build a system that could:
 1.  accept packages from the output of one system,
-2.  scan/identify critical information on the package
+2.  determine the package's orientation
 3.  manipulate the package's orientation
 4.  and then dispense the package into the opening of the next system with high repeatability.
 
