@@ -10,6 +10,7 @@ cover-img: upsmain1.jpg
 images:
  - image_path: /projects/upsmainproj/upsmain1.jpg
 ---
+{% include google-analytics.html %}
 <span style="font-style:oblique"><b>Note</b>: because this project is still ongoing and comprises critical IP for one of UPS's newest package handling technologies, I am only allowed to share limited details of my work.</span>
 
 ## Overview

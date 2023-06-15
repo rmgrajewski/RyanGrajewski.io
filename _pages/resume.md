@@ -20,6 +20,7 @@ permalink: /resume/
     }
   </script>
 </head>
+{% include google-analytics.html %}
 
 <div class="section row">
   <div class="col">

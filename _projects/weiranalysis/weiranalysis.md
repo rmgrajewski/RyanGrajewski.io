@@ -16,7 +16,7 @@ images:
  - image_path: /projects/weiranalysis/weir6.png
 
 ---
-
+{% include google-analytics.html %}
 ## Project Overview
 
 This was the final group project as part of my studies in the undergraduate Fluid Dynamics class. The goal was to utilize our studies in fluid dynamics to develop an understanding of how varying the geometry of different weirs in a flume effect the flow of water. 

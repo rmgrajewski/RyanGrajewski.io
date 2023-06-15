@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+{% include google-analytics.html %}
 My name is Ryan Grajewski. 
 
 I'm a well-rounded mechanical engineer with a passion for understanding and pushing the physical limits of technology at the intersection of advanced robotics, manufacturing, and product development. My goal as a young professional is to hone my technical expertise, and establish myself as a leader in the high-tech industry where I may bridge the gap between my highly technical peers and the business oriented stakeholders invested in my projects.  

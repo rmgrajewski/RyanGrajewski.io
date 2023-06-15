@@ -17,6 +17,7 @@ images:
  - image_path: /projects/OCR/OCR8.jpg
  - image_path: /projects/OCR/OCR9.jpg
 ---
+{% include google-analytics.html %}
 ## Overview
 The goal for this project was to implement python machine learning packages to develop an Optical Character Recognition algorithm that could take in images of handwritten math equations, accurately identify each symbol in the equation, and output a LaTex representation. Optical Character Recognition (OCR) is the industry term for the technology that allows people to capture and convert text in an image to machine-readable text. For those who are unfamiliar, LaTex is a popular text editor that academics use often to write mathematical equations inline with document text.
 

@@ -12,6 +12,7 @@ images:
 
 
 ---
+{% include google-analytics.html %}
 ## Overview
 I had the opportunity to lead multiple high-priority, quick-turnaround projects in addition to my main project work at UPS. I'm choosing to highlight these smaller projects because, in my eyes, they epitomize the practice of rapid prototyping.
 

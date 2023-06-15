@@ -17,6 +17,7 @@ images:
  - image_path: /projects/capstone/capstone_07_.png
 
 ---
+{% include google-analytics.html %}
 ## Project Overview 
 My capstone senior design project was sponsored by Gypsum Management Supply, INC. who presented the challenge of improving the safety and usability of an age-old tool they use every day: the drywall cart. The motivation was that GMS spends nearly $1 million per year in worker's compensation due to worksite injuries where a loaded (1 ton) drywall cart tips over and crushes the operator. The goal of the project was to develop a novel drywall cart that improves the operational safety by addressing maneuverability and minimizing risks of tipping.
 

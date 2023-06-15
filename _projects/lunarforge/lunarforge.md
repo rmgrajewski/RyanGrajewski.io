@@ -16,7 +16,7 @@ images:
  - image_path: /projects/lunarforge/lunarforge_05.png
  - image_path: /projects/lunarforge/lunarforge_06.png
 ---
-
+{% include google-analytics.html %}
 ## Project Overview
 
 NASA's Big Idea Challenge for 2023 - the Lunar Forge - was an open-ended challenge to develop innovative technologies or processes that address some part of the metal production pipeline on the Moon. In particular, NASA emphasized technologies that enable the production of pressure vessels, support structures, pipe, metal extrusions, cable, etc. There was a major emphasis on design process for this project, including methodical idea generation and systematic decision making. 

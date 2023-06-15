@@ -16,7 +16,7 @@ images:
 
 
 ---
-
+{% include google-analytics.html %}
 ## Project Overview
 This was the semester long final project for a graduate course in Computer Aided Design. The project itself was very open ended, where the goal was to research and implement any topic of interest within the CAD/simulation discipline.
 
