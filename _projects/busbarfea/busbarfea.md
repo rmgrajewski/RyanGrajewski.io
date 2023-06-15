@@ -17,7 +17,7 @@ images:
 
 
 ---
-
+{% include google-analytics.html %}
 ## Project Overview
 
 This was a semester long final project in a graduate course on Finite Element Analysis Theory & Application. The project guidelines were entirely open-ended, and the ultimate goal was to perform an FEA on anything of interest or use.
