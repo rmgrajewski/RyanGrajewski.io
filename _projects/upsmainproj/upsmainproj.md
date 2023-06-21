@@ -50,20 +50,20 @@ The system I developed was selected for patent protection, and I am listed as th
 
 I have received permission from UPS to display certain mechanisms I designed and fabricated for the completed prototype. These mechanisms are described in order below:<br>
 
-<span style="font-style:oblique; font-weight:415;">&emsp;#1 Belt + Pulley Transmission with Custom Tensioner</span>
+<span style="font-style:oblique; font-weight:415;">&emsp;(Image #1) Belt + Pulley Transmission with Custom Tensioner</span>
 <ul>
     <li style="list-style-type:disk; list-style-position: outside;">Large gear ratio needed to satisfy large torque req. - achieved through combination of motor gearbox and belt and pulley assembly</li>
     <li style="list-style-type:disk; list-style-position: outside;">Custom tensioning plate designed for easy installation despite crowding from other mechanisms. Drive motor and gearbox mount to a custom a pivot plate that tensions the belt as it rotates into its final secured position.</li>
     <li style="list-style-type:disk; list-style-position: inside;">The motor that’s visible drives a separate mechanism</li>
 </ul>
 
-<span style="font-style:oblique; font-weight:415;">&emsp;#2 & #3 Screw Drive Assembly</span>
+<span style="font-style:oblique; font-weight:415;">&emsp;(Images #2 & #3) Screw Drive Assembly</span>
 <ul>
     <li style="list-style-type:disk; list-style-position: outside;">Formed plate out of sheet metal and positioned strategic bends to increase stiffness</li>
     <li style="list-style-type:disk; list-style-position: outside;">Designed flexural guide rail mounts using thin spring steel strips as connecting members to provide stiff guidance along the axis of travel without over constraining the system</li>
 </ul>
 
-<span style="font-style:oblique; font-weight:415;">&emsp;#4 Round Belt Pulley Transmission</span>
+<span style="font-style:oblique; font-weight:415;">&emsp;(Image #4) Round Belt Pulley Transmission</span>
 <ul>
     <li style="list-style-type:disk; list-style-position: outside;">3D printed pulleys minimized cost but proved just as effective</li>
     <li style="list-style-type:disk; list-style-position: outside;">Calculated required tension and torque to achieve desired speed of mechanism - informed belt design</li>
