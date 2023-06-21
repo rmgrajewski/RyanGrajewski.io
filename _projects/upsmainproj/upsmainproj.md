@@ -63,13 +63,14 @@ I have received permission from UPS to display certain mechanisms I designed and
     <li style="list-style-type:disk; list-style-position: outside;">Designed flexural guide rail mounts using thin spring steel strips as connecting members to provide stiff guidance along the axis of travel without over constraining the system</li>
 </ul>
 
-<span style="font-style:oblique; font-weight:415;">&emsp;#4 Round Belt Pulley Transmission</span><ul>
+<span style="font-style:oblique; font-weight:415;">&emsp;#4 Round Belt Pulley Transmission</span>
+<ul>
     <li style="list-style-type:disk; list-style-position: outside;">3D printed pulleys minimized cost but proved just as effective</li>
     <li style="list-style-type:disk; list-style-position: outside;">Calculated required tension and torque to achieve desired speed of mechanism - informed belt design</li>
 </ul>
 
 ## Full-System Design Process 
-
+<br>
 <span style="font-style:oblique; font-weight:415;">Defining the Engineering Problem</span><br>
 
 1.  Translated the project's general guidelines into specific, targetable functional requirements. Researched current industry practices and viable off-the-shelf solutions.
