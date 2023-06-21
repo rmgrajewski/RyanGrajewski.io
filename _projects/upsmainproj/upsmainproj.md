@@ -5,8 +5,8 @@ permalink: /projects/upsmainproj
 subtitle: project
 rollover-text:
 project-type: engineering
-project-priority: 
-cover-img: 
+project-priority: 11
+cover-img: upsmain1.jpg
 images:
  - image_path: /projects/upsmainproj/upsmain1.jpg
    caption: ""
@@ -52,12 +52,13 @@ I have received permission from UPS to display certain mechanisms I designed and
 
 <span style="font-style:oblique; font-weight:415;">&emsp;#1 Belt + Pulley Transmission with Custom Tensioner</span>
 <ul>
-    <li style="list-style-type:disk; list-style-position: outside;">Large gear ratio needed to satisfy large torque req. - achieved through combination of motor gearbox and belt and pulley assembly/li>
+    <li style="list-style-type:disk; list-style-position: outside;">Large gear ratio needed to satisfy large torque req. - achieved through combination of motor gearbox and belt and pulley assembly</li>
     <li style="list-style-type:disk; list-style-position: outside;">Custom tensioning plate designed for easy installation despite crowding from other mechanisms. Drive motor and gearbox mount to a custom a pivot plate that tensions the belt as it rotates into its final secured position.</li>
     <li style="list-style-type:disk; list-style-position: inside;">The motor that’s visible drives a separate mechanism</li>
 </ul>
 
-<span style="font-style:oblique; font-weight:415;">&emsp;#2 & #3 Screw Drive Assembly</span><ul>
+<span style="font-style:oblique; font-weight:415;">&emsp;#2 & #3 Screw Drive Assembly</span>
+<ul>
     <li style="list-style-type:disk; list-style-position: outside;">Formed plate out of sheet metal and positioned strategic bends to increase stiffness</li>
     <li style="list-style-type:disk; list-style-position: outside;">Designed flexural guide rail mounts using thin spring steel strips as connecting members to provide stiff guidance along the axis of travel without over constraining the system</li>
 </ul>
@@ -69,36 +70,36 @@ I have received permission from UPS to display certain mechanisms I designed and
 
 ## Full-System Design Process 
 
-<span style="font-style:oblique; font-weight:415;">Defining the Engineering Problem</span>
+<span style="font-style:oblique; font-weight:415;">Defining the Engineering Problem</span><br>
 
 1.  Translated the project's general guidelines into specific, targetable functional requirements. Researched current industry practices and viable off-the-shelf solutions.
 2.  Developed a mathematical formulation of the package orientation problem. Wrote a decision algorithm which acted as a set of rules (based on initial orientation) that defined the sequence of rotations that should be applied to a package in order to achieve a final desired orientation.
 
 
-<span style="font-style:oblique; font-weight:415;">Exploring the Design Space - see images #6, 7, and 8 in carousel</span>
+<span style="font-style:oblique; font-weight:415;">Exploring the Design Space - see images #6, 7, and 8 in carousel</span><br>
 
 3. Conceptualized numerous alternative mechanism designs for each possible manipulation. Below are a few videos I've received permission to display that demonstrate early stages of the exploration process.
 4. Systematically eliminated certain design strategies and began formulating a cohesive system architecture by building scale mockups of key mechanisms 
-5. Iteratively improved the design of the most promising mechanism concepts.
+5. Iteratively improved the design of the most promising mechanism concepts.<br>
 
-<span style="font-style:oblique; font-weight:415;">Engineering Design Calculations</span>
+<span style="font-style:oblique; font-weight:415;">Engineering Design Calculations</span><br>
 
 6. Modeled the system dynamics of each mechanism, calculated anticipated loads, and defined their respective motion profiles.
-7. Calculated the corresponding motor torque requirements. Performed necessary calculations to ensure each transmission assembly's design was mechanically sound and with an appropriate factor of safety. 
+7. Calculated the corresponding motor torque requirements. Performed necessary calculations to ensure each transmission assembly's design was mechanically sound and with an appropriate factor of safety. <br>
 
-<span style="font-style:oblique; font-weight:415;">Prototype Fabrication and Assembly</span>
+<span style="font-style:oblique; font-weight:415;">Prototype Fabrication and Assembly</span><br>
 
 8. Strategically planned the design of each component to use the most efficient manufacturing process that made sense with the part’s application.
-9. Used the waterjet, CNC Mill, sheet-metal brake, and 3D printer to fabricate components, though opted for off-the-shelf components where possible to save time and material costs. 
+9. Used the waterjet, CNC Mill, sheet-metal brake, and 3D printer to fabricate components, though opted for off-the-shelf components where possible to save time and material costs. <br>
 
-<span style="font-style:oblique; font-weight:415;">Electronics and Controls Module Development - See Image #5 in Carousel</span>
+<span style="font-style:oblique; font-weight:415;">Electronics and Controls Module Development - See Image #5 in Carousel</span><br>
 
 10. Selected an appropriate power supply, microcontroller, and compatible stepper controllers to satisfy each motor's specifications. 
 11. Translated into C (programming language) the decision algorithm used to decide the sequence of necessary rotations. Leveraged the stepper controller library to write low-level motor functions.
-12. Measured and optimized each motor's electrical parameters to ensure the correct voltage was being supplied, enabling adequate torque.
+12. Measured and optimized each motor's electrical parameters to ensure the correct voltage was being supplied, enabling adequate torque.<br>
 
 
-<span style="font-style:oblique; font-weight:415;">Full System Test and Validation Experiments</span>
+<span style="font-style:oblique; font-weight:415;">Full System Test and Validation Experiments</span><br>
 
 13. Evaluated full system's functionality using test scenarios involving randomly oriented packages entering the system. Demonstrated proof-of-concept. 
 
