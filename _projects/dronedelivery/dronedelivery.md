@@ -5,7 +5,7 @@ permalink: /projects/dronedelivery
 subtitle: project
 rollover-text:
 project-type: engineering
-project-priority: 3
+project-priority: 4
 cover-img: drone_01.png
 images:
  - image_path: /projects/dronedelivery/drone_01.png  

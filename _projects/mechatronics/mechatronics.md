@@ -5,7 +5,7 @@ permalink: /projects/mechatronics
 subtitle: project
 rollover-text:
 project-type: engineering
-project-priority: 8
+project-priority: 9
 cover-img: MECH1.png
 images:
 - image_path: /projects/mechatronics/MECH1.png

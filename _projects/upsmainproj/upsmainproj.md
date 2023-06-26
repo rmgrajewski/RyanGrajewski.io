@@ -5,7 +5,7 @@ permalink: /projects/upsmainproj
 subtitle: project
 rollover-text:
 project-type: engineering
-project-priority: 11
+project-priority: 12
 cover-img: upsmain1.jpg
 images:
  - image_path: /projects/upsmainproj/upsmain1.jpg
@@ -57,13 +57,13 @@ I have received permission from UPS to display certain mechanisms I designed and
     <li style="list-style-type:disk; list-style-position: inside;">The motor that’s visible drives a separate mechanism</li>
 </ul>
 
-<span style="font-style:oblique; font-weight:415;">&emsp;(Images #2 & #3) Screw Drive Assembly</span>
+<span style="font-style:oblique; font-weight:380;">&emsp;(Images #2 & #3) Screw Drive Assembly</span>
 <ul>
     <li style="list-style-type:disk; list-style-position: outside;">Formed plate out of sheet metal and positioned strategic bends to increase stiffness</li>
     <li style="list-style-type:disk; list-style-position: outside;">Designed flexural guide rail mounts using thin spring steel strips as connecting members to provide stiff guidance along the axis of travel without over constraining the system</li>
 </ul>
 
-<span style="font-style:oblique; font-weight:415;">&emsp;(Image #4) Round Belt Pulley Transmission</span>
+<span style="font-style:oblique; font-weight:380;">&emsp;(Image #4) Round Belt Pulley Transmission</span>
 <ul>
     <li style="list-style-type:disk; list-style-position: outside;">3D printed pulleys minimized cost but proved just as effective</li>
     <li style="list-style-type:disk; list-style-position: outside;">Calculated required tension and torque to achieve desired speed of mechanism - informed belt design</li>

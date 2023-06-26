@@ -5,7 +5,7 @@ permalink: /projects/busbarfea/
 subtitle: project
 rollover-text: 
 project-type: engineering
-project-priority: 6
+project-priority: 7
 cover-img: Fea_thumb.png
 images:
  - image_path: /projects/busbarfea/Fea_thumb.png

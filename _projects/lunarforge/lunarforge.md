@@ -5,7 +5,7 @@ permalink: /projects/lunarforge
 subtitle: project
 rollover-text:
 project-type: engineering
-project-priority: 7
+project-priority: 8
 cover-img: thumbnail.png
 images:
  - image_path: /projects/lunarforge/thumbnail.png

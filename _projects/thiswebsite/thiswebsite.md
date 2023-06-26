@@ -5,7 +5,7 @@ permalink: /projects/thiswebsite
 subtitle: project
 rollover-text:
 project-type: engineering
-project-priority: 12
+project-priority: 3
 cover-img: thiswebsite1.jpg
 images:
  - image_path: /projects/thiswebsite/thiswebsite1.jpg

@@ -5,7 +5,7 @@ permalink: /projects/capstone
 subtitle: project
 rollover-text:
 project-type: engineering
-project-priority: 4
+project-priority: 5
 cover-img: capstone_07.png
 images:
  - image_path: /projects/capstone/capstone_01.png

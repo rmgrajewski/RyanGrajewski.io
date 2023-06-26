@@ -5,7 +5,7 @@ permalink: /projects/curveoptimization
 subtitle: project
 rollover-text:
 project-type: engineering
-project-priority: 5
+project-priority: 6
 cover-img: LineOpt1.png
 images:
  - image_path: /projects/curveoptimization/LineOpt1.png

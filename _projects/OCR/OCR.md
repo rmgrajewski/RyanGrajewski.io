@@ -5,7 +5,7 @@ permalink: /projects/OCR
 subtitle: project
 rollover-text:
 project-type: engineering
-project-priority: 9
+project-priority: 10
 cover-img: OCR1.png
 images:
  - image_path: /projects/OCR/OCR2.jpg
