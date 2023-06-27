@@ -31,6 +31,8 @@ images:
 {% include google-analytics.html %}
 <span style="font-style:oblique"><b>Note</b>: because this project is still ongoing and comprises critical IP for one of UPS's newest package handling technologies, I am only allowed to share limited details of my work.</span>
 
+See more about the UPS Advanced Technology Group's Rapid Prototyping Lab here: <a href="https://about.ups.com/ae/en/our-stories/innovation-driven/atg-test-labs.html">ATG Test Labs</a>
+
 ## Overview
 For my main project at UPS, I was presented the very open-ended engineering challenge of conceptualizing and prototyping a system that would integrate with a larger package handling solution already in development. The objective for the project was to build a system that could:
 1.  accept packages from the output of one system,
