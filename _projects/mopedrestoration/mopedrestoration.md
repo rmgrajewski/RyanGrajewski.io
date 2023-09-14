@@ -2,7 +2,7 @@
 layout: project
 title: Moped & Motorcycle Restoration Business
 permalink: /projects/mopedrestoration
-subtitle: 
+subtitle: project
 rollover-text:
 project-type: engineering
 project-priority: 2
@@ -14,7 +14,7 @@ images:
  - image_path: /projects/mopedrestoration/moped4.png
 
 ---
-
+{% include google-analytics.html %}
 ## Project Overview
 This is an ongoing entrepreneurial project I started in High School out of my love for motorcycles. The goal is to purchase used mopeds and motorcycles off of Craigslist and Facebook Marketplace, develop a restoration plan involving purchase of required hardware as well as aesthetic parts, and re-sell on those same platforms for a profit. 
 

@@ -2,10 +2,10 @@
 layout: project
 title: Campus Drone Delivery Network
 permalink: /projects/dronedelivery
-subtitle:
+subtitle: project
 rollover-text:
 project-type: engineering
-project-priority: 3
+project-priority: 4
 cover-img: drone_01.png
 images:
  - image_path: /projects/dronedelivery/drone_01.png  
@@ -13,7 +13,7 @@ images:
  - image_path: /projects/dronedelivery/drone_03.png
  - image_path: /projects/dronedelivery/drone_04.png   
 ---
-
+{% include google-analytics.html %}
 ## Project Overview
 
 This project was a Georgia Tech Research Institute sponsored project to develop an on-campus, autonomous drone delivery service for last-mile delivery. The entire project was comprised of several teams, each oriented around a main objective functionality of the delivery network including drone flight testing, software programming, ground support network programming, and delivery station fabrication.

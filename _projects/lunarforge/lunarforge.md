@@ -2,10 +2,10 @@
 layout: project
 title: NASA Big Idea Challenge - Lunar Forge
 permalink: /projects/lunarforge
-subtitle:
+subtitle: project
 rollover-text:
 project-type: engineering
-project-priority: 7
+project-priority: 8
 cover-img: thumbnail.png
 images:
  - image_path: /projects/lunarforge/thumbnail.png
@@ -16,7 +16,7 @@ images:
  - image_path: /projects/lunarforge/lunarforge_05.png
  - image_path: /projects/lunarforge/lunarforge_06.png
 ---
-
+{% include google-analytics.html %}
 ## Project Overview
 
 NASA's Big Idea Challenge for 2023 - the Lunar Forge - was an open-ended challenge to develop innovative technologies or processes that address some part of the metal production pipeline on the Moon. In particular, NASA emphasized technologies that enable the production of pressure vessels, support structures, pipe, metal extrusions, cable, etc. There was a major emphasis on design process for this project, including methodical idea generation and systematic decision making. 
@@ -37,6 +37,6 @@ Ansys static structure simulations were used to model the elastic behavior of th
 
 
 * [Final Deliverables Presentation](https://youtu.be/nl4ozNvyHK0): Culminating presentation of our findings
-* [Final Report](/projects/lunarforge/FinalReport.pdf): Final presentation including in-depth calculations and concept validation
-* [Team Report 2](/projects/lunarforge/Report2.pdf): Second update report including design concept selection and project plans
+* [Final Report](/projects/lunarforge/LunarForge_FinalReport.pdf): Final presentation including in-depth calculations and concept validation
+* [Team Report 2](/projects/lunarforge/LunarForge_Report2.pdf): Second update report including design concept selection and project plans
 * [Team Report 1](/projects/lunarforge/Report1.pdf): First update report including ideation methods and background research

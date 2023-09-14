@@ -2,10 +2,10 @@
 layout: project
 title: Repulsive Curve Optimization for Modeling Muscle Tissue
 permalink: /projects/curveoptimization
-subtitle:
+subtitle: project
 rollover-text:
 project-type: engineering
-project-priority: 5
+project-priority: 6
 cover-img: LineOpt1.png
 images:
  - image_path: /projects/curveoptimization/LineOpt1.png
@@ -16,7 +16,7 @@ images:
 
 
 ---
-
+{% include google-analytics.html %}
 ## Project Overview
 This was the semester long final project for a graduate course in Computer Aided Design. The project itself was very open ended, where the goal was to research and implement any topic of interest within the CAD/simulation discipline.
 

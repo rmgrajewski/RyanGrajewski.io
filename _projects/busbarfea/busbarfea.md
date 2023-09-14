@@ -2,10 +2,10 @@
 layout: project
 title: Finite Element Analysis of Substation Busbar Geometries
 permalink: /projects/busbarfea/
-subtitle:
+subtitle: project
 rollover-text: 
 project-type: engineering
-project-priority: 6
+project-priority: 7
 cover-img: Fea_thumb.png
 images:
  - image_path: /projects/busbarfea/Fea_thumb.png
@@ -17,7 +17,7 @@ images:
 
 
 ---
-
+{% include google-analytics.html %}
 ## Project Overview
 
 This was a semester long final project in a graduate course on Finite Element Analysis Theory & Application. The project guidelines were entirely open-ended, and the ultimate goal was to perform an FEA on anything of interest or use.

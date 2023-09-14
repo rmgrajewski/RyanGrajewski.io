@@ -11,14 +11,54 @@
 	<div class="sidebar-freetext">
 		<p>{{ site.freetext }}</p>
 	</div>
+	{% endif %}	
+
+
+	{% if page.subtitle == 'project'%}
+	<div class="menu-button-active">
+		<a href="https://www.ryangrajewski.com/">Projects</a>
+	  </div>
+	<div class="menu-button">
+		<a href="https://www.ryangrajewski.com/resume/">Resume</a>
+	</div>
+	<div class="menu-button">
+		<a href="https://www.ryangrajewski.com/about/">About</a>
+	</div>
+	{% endif %}
+	{% if page.title == 'Resume'%}
+	<div class="menu-button">
+		<a href="https://www.ryangrajewski.com/">Projects</a>
+	  </div>
+	<div class="menu-button-active">
+		<a href="https://www.ryangrajewski.com/resume/">Resume</a>
+	</div>
+	<div class="menu-button">
+		<a href="https://www.ryangrajewski.com/about/">About</a>
+	</div>
+	{% endif %}
+	{% if page.title == 'About'%}
+	<div class="menu-button">
+		<a href="https://www.ryangrajewski.com/">Projects</a>
+	  </div>
+	<div class="menu-button">
+		<a href="https://www.ryangrajewski.com/resume/">Resume</a>
+	</div>
+	<div class="menu-button-active">
+		<a href="https://www.ryangrajewski.com/about/">About</a>
+	</div>
+	{% endif %}
+	{% if page.subtitle == '' %}
+	<div class="menu-button">
+		<a href="https://www.ryangrajewski.com/">Projects</a>
+	  </div>
+	<div class="menu-button">
+		<a href="https://www.ryangrajewski.com/resume/">Resume</a>
+	</div>
+	<div class="menu-button">
+		<a href="https://www.ryangrajewski.com/about/">About</a>
+	</div>
 	{% endif %}
 
-	<ul class="sidebar-menus">
-		{% for item in site.data.menu %}
-			<li> <a href="{{ item.url }}">{{ item.text }}</a></li>
-		{% endfor %}
-	</ul>
-	
 	<br>
 	
 	<ul class="list-inline list-social-icons mb-0">

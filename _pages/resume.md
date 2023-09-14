@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Resume
+subtitle: resume
 permalink: /resume/
 ---
 <head>
@@ -19,13 +20,14 @@ permalink: /resume/
     }
   </script>
 </head>
+{% include google-analytics.html %}
 
 <div class="section row">
   <div class="col">
     <div class="style1">Ryan<span style="font-weight:700"> Grajewski</span></div>
   </div>
   <div class="contact-info col" style="break-after: always; margin-left: 80%; margin-top: -80px; margin-bottom:0px;">
-    <div class="downloadButton" style="margin-bottom: 3px;" id="pdf" style="margin-right: 0px;"><a href="/assets/RyanGrajewski_Resume.pdf" style="color:black;" download>Download As PDF</a></div><br><br>
+    <div class="downloadButton" style="margin-bottom: 3px;" id="pdf" style="margin-right: 0px;"><a href="/assets/RyanGrajewski_ResumePDF.pdf" style="color:white; font-weight:bold;" download>Download As PDF</a></div><br><br>
     <div style="margin-bottom: 3px;">703 . 939 . 7089</div>
     <div style="margin-bottom: 3px;"><a href="rmgrajewski@gmail.com" style="color:">rmgrajewski@gmail.com</a></div>
     <div style="margin-bottom: 3px;"><a href="http://ryangrajewski.com">https://ryangrajewski.com</a></div>
@@ -97,7 +99,7 @@ permalink: /resume/
                   The <a href="https://about.ups.com/us/en/our-stories/innovation-driven/atg-test-labs.html" style="color:#C34743;">Advanced Technology Group (ATG)</a> within UPS is the foremost advanced R&D team, responsible for identifying, validating, and rapidly deploying innovative solutions which address a range of opportunities that face UPS in material handling, transportation, and logistics.
                 </div>
                 <li class="jobBullet1">Designed, prototyped, and tested a compact package handling technology capable of accepting a package, determining the package’s orientation, and manipulating/rotating it into any desired final orientation for further sorting and/or placement into subsequent package handling systems.</li>
-                <li class="jobBullet2">Invention selected for patenting – designated as primary inventor. Provisional patent application filed 2/9/2022.</li>
+                <li class="jobBullet2">Invention selected for patenting – designated as primary inventor. Provisional patent application filed 2/9/2023.</li>
                 <li class="jobBullet1">Initiated a “10% Project” in collaboration with the Smart Package Smart Facility team to explore a novel use-case for a mobile sensor technology in automated sorting facilities aimed at improving package traceability while circumventing traditional sensor hardware costs and power requirements.</li>
                 <li class="jobBullet2">Devised proof-of-concept hardware and experimentation setup, recorded data and articulated results, and presented findings to ATG team members</li>
                 <li class="jobBullet1">ATG internal engineering consulting – supported other ATG initiatives with idea generation, mechanical design or CAD, and rapid fabrication services (often 1-2 day turnarounds) using shop equipment like the OMAX 55100 Abrasive Waterjet, CNC Mill, 3D Printer, Cold Saw, and welding station.</li>
@@ -133,7 +135,7 @@ permalink: /resume/
               <div class="answer">
                 <div class="companyProfile">
                   <div class="light" style="font-size:15px;">may 2019 - aug 2019</div>
-                  <a href="http://www.pro-type.com/" style="color:#C34743;">Pro-Type Industries </a> is a precision machine shop based in Sterling VA,which specializes in sheet metal fabrication, CNC Machining, and prototyping for the Aerospace, Military, and Technology industries.
+                  <a href="http://www.pro-type.com/" style="color:#C34743;">Pro-Type Industries </a> is a precision machine shop based in Sterling VA, which specializes in sheet metal fabrication, CNC Machining, and prototyping for the Aerospace, Military, and Technology industries.
                 </div>
                 <li class="jobBullet1">Aided setup and execution of manufacturing processes in numerous departments including powder coating, CNC Milling, metal cutting, sheet metal bending, and widget finishing and inspection</li>
                 <li class="jobBullet1">Produced CAD drawing packages and documented fabrication instructions for small-scale sheet metal components used in the Aerospace industry</li>

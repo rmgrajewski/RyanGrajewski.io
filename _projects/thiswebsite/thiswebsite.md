@@ -2,14 +2,15 @@
 layout: project
 title: This Portfolio Website!
 permalink: /projects/thiswebsite
-subtitle:
+subtitle: project
 rollover-text:
 project-type: engineering
-project-priority: 12
+project-priority: 3
 cover-img: thiswebsite1.jpg
 images:
  - image_path: /projects/thiswebsite/thiswebsite1.jpg
 ---
+{% include google-analytics.html %}
 ## Motivation
 I was inspired to start this portfolio website by my manager at UPS, Julian Bell, who convinced me to stumble through teaching myself HTML and CSS rather than build a simple drag-and-drop site off Squarespace or Wix. 
 
